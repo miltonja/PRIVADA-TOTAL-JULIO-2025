@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,AE Mundo
+ #EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/QCbv70qp/A-E.png",AE MUNDO
 http://190.108.93.148:8000/play/a079/index.m3u8
 #EXTINF:-1 ,ATV
 http://190.108.93.148:8000/play/a07q/index.m3u8
 #EXTINF:-1 ,AXN
 http://190.108.93.148:8000/play/a084/index.m3u8
-#EXTINF:-1 ,America TV HD
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/Nf64fK0w/AMERICA-TV.png",America TV HD
 http://190.108.93.148:8000/play/a0d3/index.m3u8
-#EXTINF:-1 ,AmericaTV
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/Nf64fK0w/AMERICA-TV.png",AmericaTV
 http://190.108.93.148:8000/play/a07o/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://190.108.93.148:8000/play/a071/index.m3u8
@@ -129,7 +129,5 @@ http://190.108.93.148:8000/play/a0ab/index.m3u8
 http://190.108.93.148:8000/play/a07l/index.m3u8
 #EXTINF:-1 ,Warner
 http://190.108.93.148:8000/play/a072/index.m3u8
-#EXTINF:-1 ,Zona Latina
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
 http://190.108.93.148:8000/play/a0dh/index.m3u8
-7 personas reaccionaron
-Mostrar copias compartidas
