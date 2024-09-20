@@ -1,139 +1,847 @@
 #EXTM3U
- #EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/QCbv70qp/A-E.png",AE MUNDO
-http://190.108.93.148:8000/play/a079/index.m3u8
-#EXTINF:-1 ,ATV
-http://190.108.93.148:8000/play/a07q/index.m3u8
-#EXTINF:-1 ,AXN
-http://190.108.93.148:8000/play/a084/index.m3u8
-#EXTINF:-1 ,CARACOL HD
-http://200.122.237.28:8000/play/a035/index.m3u8
-#EXTINF:-1 ,RCN HD
-http://200.122.237.28:8000/play/a036/index.m3u8
-#EXTINF:-1 ,LA KALLE
-http://200.122.237.28:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/Nf64fK0w/AMERICA-TV.png",America TV HD
-http://190.108.93.148:8000/play/a0d3/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/Nf64fK0w/AMERICA-TV.png",AmericaTV
-http://190.108.93.148:8000/play/a07o/index.m3u8
-#EXTINF:-1 ,Animal Planet
-http://190.108.93.148:8000/play/a071/index.m3u8
-#EXTINF:-1 ,BETHEL
-http://190.108.93.148:8000/play/a068/index.m3u8
-#EXTINF:-1 ,CNN Espanol
-http://190.108.93.148:8000/play/a06e/index.m3u8
-#EXTINF:-1 ,Canal Estrellas
-http://190.108.93.148:8000/play/a07c/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://190.108.93.148:8000/play/a0dl/index.m3u8
-#EXTINF:-1 ,Cinecanal
-http://190.108.93.148:8000/play/a0dd/index.m3u8
-#EXTINF:-1 ,Cinemax
-http://190.108.93.148:8000/play/a082/index.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://190.108.93.148:8000/play/a070/index.m3u8
-#EXTINF:-1 ,Discovery ID
-http://190.108.93.148:8000/play/a07h/index.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://190.108.93.148:8000/play/a06d/index.m3u8
-#EXTINF:-1 ,Discovery Turbo
-http://190.108.93.148:8000/play/a08f/index.m3u8
-#EXTINF:-1 ,Disney Channel
-http://190.108.93.148:8000/play/a06z/index.m3u8
-#EXTINF:-1 ,Disney Jr
-http://190.108.93.148:8000/play/a06q/index.m3u8
-#EXTINF:-1 ,E Entertainment
-http://190.108.93.148:8000/play/a073/index.m3u8
-#EXTINF:-1 ,ESPN
-http://190.108.93.148:8000/play/a076/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://190.108.93.148:8000/play/a06t/index.m3u8
-#EXTINF:-1 ,ESPN 3
-http://190.108.93.148:8000/play/a08h/index.m3u8
-#EXTINF:-1 ,ESPN 4
-http://190.108.93.148:8000/play/a07r/index.m3u8
-#EXTINF:-1 ,ESPN HD
-http://190.108.93.148:8000/play/a0cw/index.m3u8
-#EXTINF:-1 ,FX
-http://190.108.93.148:8000/play/a086/index.m3u8
-#EXTINF:-1 ,Fox Sports 2
-http://190.108.93.148:8000/play/a07d/index.m3u8
-#EXTINF:-1 ,Fox Sports 3
-http://190.108.93.148:8000/play/a07e/index.m3u8
-#EXTINF:-1 ,GOLPERU HD
-http://190.108.93.148:8000/play/a0d6/index.m3u8
-#EXTINF:-1 ,GolTV HD
-http://190.108.93.148:8000/play/a0cz/index.m3u8
-#EXTINF:-1 ,Golden HD
-http://190.108.93.148:8000/play/a0ct/index.m3u8
-#EXTINF:-1 ,HBO 2 S
-http://190.108.93.148:8000/play/a0a6/index.m3u8
-#EXTINF:-1 ,HBO Family S
-http://190.108.93.148:8000/play/a0a9/index.m3u8
-#EXTINF:-1 ,HBO Plus
-http://190.108.93.148:8000/play/a0a7/index.m3u8
-#EXTINF:-1 ,HBO S
-http://190.108.93.148:8000/play/a0a5/index.m3u8
-#EXTINF:-1 ,HBO XTREME SD
-http://190.108.93.148:8000/play/a0a8/index.m3u8
-#EXTINF:-1 ,History Channel
-http://190.108.93.148:8000/play/a0dc/index.m3u8
-#EXTINF:-1 ,HomeandHealth
-http://190.108.93.148:8000/play/a07m/index.m3u8
-#EXTINF:-1 ,I-Sat
-http://190.108.93.148:8000/play/a0df/index.m3u8
-#EXTINF:-1 ,Latina
-http://190.108.93.148:8000/play/a07n/index.m3u8
-#EXTINF:-1 ,Latina HD
-http://190.108.93.148:8000/play/a0d4/index.m3u8
-#EXTINF:-1 ,Lifetime
-http://190.108.93.148:8000/play/a0dr/index.m3u8
-#EXTINF:-1 ,MTV
-http://190.108.93.148:8000/play/a0dg/index.m3u8
-#EXTINF:-1 ,Movistar Deportes HD
-http://190.108.93.148:8000/play/a0cr/index.m3u8
-#EXTINF:-1 ,Nat Geo
-http://190.108.93.148:8000/play/a0db/index.m3u8
-#EXTINF:-1 ,Nick Jr
-http://190.108.93.148:8000/play/a08e/index.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://190.108.93.148:8000/play/a0da/index.m3u8
-#EXTINF:-1 ,Panamericana TV
-http://190.108.93.148:8000/play/a07p/index.m3u8
-#EXTINF:-1 ,RCN Novelas
-http://190.108.93.148:8000/play/a07g/index.m3u8
-#EXTINF:-1 ,STAR CHANNEL
-http://190.108.93.148:8000/play/a0dj/index.m3u8
-#EXTINF:-1 ,Sin Limites
-http://190.108.93.148:8000/play/a0d9/index.m3u8
-#EXTINF:-1 ,Sony
-http://190.108.93.148:8000/play/a083/index.m3u8
-#EXTINF:-1 ,Space
-http://190.108.93.148:8000/play/a085/index.m3u8
-#EXTINF:-1 ,Studio Universal
-http://190.108.93.148:8000/play/a06s/index.m3u8
-#EXTINF:-1 ,TCM
-http://190.108.93.148:8000/play/a0dk/index.m3u8
-#EXTINF:-1 ,TLC
-http://190.108.93.148:8000/play/a07a/index.m3u8
-#EXTINF:-1 ,TNT
-http://190.108.93.148:8000/play/a0dm/index.m3u8
-#EXTINF:-1 ,TV Peru
-http://190.108.93.148:8000/play/a07s/index.m3u8
-#EXTINF:-1 ,Telehit HD
-http://190.108.93.148:8000/play/a0cu/index.m3u8
-#EXTINF:-1 ,Telemundo
-http://190.108.93.148:8000/play/a07f/index.m3u8
-#EXTINF:-1 ,TyC
-http://190.108.93.148:8000/play/a078/index.m3u8
-#EXTINF:-1 ,TyC Sports HD
-http://190.108.93.148:8000/play/a0d5/index.m3u8
-#EXTINF:-1 ,Universal
-http://190.108.93.148:8000/play/a0de/index.m3u8
-#EXTINF:-1 ,Universal Cinema SD
-http://190.108.93.148:8000/play/a0ab/index.m3u8
-#EXTINF:-1 ,WILLAX
-http://190.108.93.148:8000/play/a07l/index.m3u8
-#EXTINF:-1 ,Warner
-http://190.108.93.148:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://i.postimg.cc/RCndys5h/ZONA-LATINA.png",Zona Latina
-http://190.108.93.148:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png",Imagen Television
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png",Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN HD
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 HD
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png",ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png",TNT HD
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS",Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 group-title="RECOMENDADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png",Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+#EXTINF:-1 group-title="LOCALES",Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="LOCALES",LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Canal 6 CDMX
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="LOCALES",ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 group-title="LOCALES",UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 group-title="LOCALES",MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="MUSICA",VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="MUSICA",TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="LOCALES",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="KIDS",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="KIDS",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 group-title="KIDS",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="KIDS",Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 group-title="LOCALES",MXNuestroCine
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="LOCALES",IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 group-title="CONOCIMIENTO",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="MUSICA",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",MNMX
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="CINE",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="CINE",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="CINE",Film&Arts
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="CINE",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="CINE",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo USA
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TLNOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN",TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="LOCALES",Azteca Uno
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="24/7",Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 group-title="24/7",Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7",Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 group-title="24/7",Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 group-title="24/7",Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 group-title="24/7",Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 group-title="24/7",Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 group-title="24/7",Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 group-title="24/7",Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 group-title="24/7",Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 group-title="24/7",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 group-title="24/7",Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 group-title="24/7",Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 group-title="24/7",Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 group-title="24/7",Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 group-title="24/7",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 group-title="24/7",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 group-title="24/7",Canela Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 group-title="24/7",Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="DEPORTES",ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 group-title="DEPORTES",AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="24/7",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="24/7",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 group-title="24/7",Kanal D Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Corazón Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Clic Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 group-title="CINE",Cinema Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 group-title="24/7",Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 group-title="24/7",CombaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:-1 group-title="24/7",WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:-1 group-title="24/7",C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 group-title="LOCALES",Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:-1 group-title="INFORMACIÓN",Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 group-title="LOCALES",Azteca Uno (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 group-title="LOCALES",Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://i.postimg.cc/SN2gjkTD/TRACE-SPORTS-SAMSUMG.png",Trace Sportstars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/sxqBKKHS/REAL-WILD-SAMSUMG.png",Real Wild
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/V6d7JKNq/MY-TIME-SAMSUMG.png",MyTime Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://i.postimg.cc/wjc5TxKJ/GUSTO-TV-ESP.png",Local Now | Gusto TV
+https://gusto-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/Kzjd9LPd/MY_TIME_ESP.png",Mytime (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/cLKHhmSG/CLUBING-ESP.png",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/VvNhXBt6/XITE-TV.png",Xite (Germany)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/nL8J45TP/TENNIS.png",Tennis Channel Deutschland (not correct source)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/t4VDGTvm/America-Funniest-Home-Videos.png",AFV Family En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Local Now" tvg-logo="https://i.postimg.cc/wvPm0YVv/AFV-FAMYLY-MODIF.png",Local Now | AFV Espanol
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/mgHkKhxB/WILD-LIFE-SAMSUMG.png",US | Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/ESBA3300017FA_20210923T010723.png",Familiares - Rakuten TV
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/62/ESAJ4500020V7_20210923T010719.png",Dramas - Rakuten TV
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20210512T003430.png",¡Hola! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel%3D790%26ads.wurl_name%3DHolaPlay%26ads.coppa%3D0%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210413T065445.png",US | NEW K.ID
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png",US | Outside TV+
+https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/CAAJ2700030ON_20210525T053254.png",CA | Outside TV+
+https://de76880773cb4fe2a42fe18d2547a0f5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d18ac345cf61eb60b5895",Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 group-title="Environment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60626721b00966395078de5d",Quietude
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/15DK3tZg/Brat-TV.png",Brat TV -TCL
+https://brat-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/63pRn6BZ/DEMAND-AFRICA.png",Demand Africa -TCL (GEO)
+https://demandafrica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA;En Español" tvg-logo="https://i.postimg.cc/sgWs37fJ/BEIN-SPORTS-EXTRA-ESPA-OL.png",beIN SPORTS XTRA en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wcmQ30R.png",Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA3000025R_20201117T081929.png",US | Spike Adventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/yYk32dGd/SONY-COMPETENCIAS.png",US | Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://i.postimg.cc/qM1V6BB8/SONY-NOVELAS.png",US | Sony Canal Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/50/USBA300003UJ_20201117T081922.png",US | Novelas Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Samsung TV Plus" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/27/USBA300012VB_20201117T081925.png",US | Novelas Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Spike_Aventura_190x190.png?raw=true",Spike Adventura
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="MUSICA",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Iconos Latinos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Reggaeton & Trap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Regional Mexicano
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA",Vevo Hip-Hop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png",Once.3
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png",Canal Catorce
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg",TV Migrante
+https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png",TV UNAM
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png",Canal Del Congreso 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png",Canal Del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png",Canal Del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 LAG
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 GDL
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 PUE
+http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 GTO
+http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 SAL
+http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png",Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png",Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png",Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2024/02/29174858/logoheader-e1709250778948.png",Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png",Canal 28 NL
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.1-140x140.jpg",SICOM Televisión 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.2-140x140.jpg",SICOM Televisión 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://tvcuatro.tv/images/logo-menu.png",TV4 Gto.
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png",TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png",TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png",Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg",SMRTV 16.1
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png",TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://www.sizart.org.mx/images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg",Sizart TV
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png",RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png",Canal 10 Cancún/Heraldo Televisión Canal 8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="INFORMACIÓN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png",RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png",France 24
+https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL",CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="LOCALES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png",ADN40 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="LOCALES REGIONALES" tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png",VA+ 26.1
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://image.roku.com/developer_channels/prod/671e88dc2d4bc0b001691b0692016976cf4e9d6de3e9d9652edc131f4fcf14a4.png",Ruidos TV
+https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png",Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png",Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp",m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif",Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92304f302ee6793a5539dd19d3261ed2.webp",RCKTV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://static.wixstatic.com/media/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg",TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://radiotv.pro/templates/rt_antares/custom/images/radiotv-1000px.jpg",RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg",Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="LOCALES",Azteca 7
+http://bgtv.xyz/play/play-551.php?tlat=1&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Canal 5
+http://bgtv.xyz/play/play-551.php?tlat=2&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",TUDN
+http://bgtv.xyz/play/play-551.php?tlat=3&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Latina
+http://bgtv.xyz/play/play-551.php?tlat=4&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",America TV
+http://bgtv.xyz/play/play-551.php?tlat=5&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Gol Perú
+http://bgtv.xyz/play/play-551.php?tlat=6&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Gol TV
+http://bgtv.xyz/play/play-551.php?tlat=7&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://bgtv.xyz/play/play-551.php?tlat=9&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn Premium
+http://bgtv.xyz/play/play-551.php?tlat=10&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS
+http://bgtv.xyz/play/play-551.php?tlat=11&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS ARG
+http://bgtv.xyz/play/play-551.php?tlat=12&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 ARG
+http://bgtv.xyz/play/play-551.php?tlat=13&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 ARG
+http://bgtv.xyz/play/play-551.php?tlat=14&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn Deportes
+http://bgtv.xyz/play/play-551.php?tlat=15&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 4
+http://bgtv.xyz/play/play-551.php?tlat=16&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn Sur
+http://bgtv.xyz/play/play-551.php?tlat=17&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 2 Sur
+http://bgtv.xyz/play/play-551.php?tlat=18&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 3 Sur
+http://bgtv.xyz/play/play-551.php?tlat=19&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Directv Sports
+http://bgtv.xyz/play/play-551.php?tlat=20&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Directv Sports 2
+http://bgtv.xyz/play/play-551.php?tlat=21&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Directv Sports Plus
+http://bgtv.xyz/play/play-551.php?tlat=22&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Bein La Liga
+http://bgtv.xyz/play/play-551.php?tlat=23&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn Mexico
+http://bgtv.xyz/play/play-551.php?tlat=27&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 2 Mexico
+http://bgtv.xyz/play/play-551.php?tlat=28&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 3 Mexico
+http://bgtv.xyz/play/play-551.php?tlat=29&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://bgtv.xyz/play/play-551.php?tlat=31&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",HBO 2
+http://bgtv.xyz/play/play-551.php?tlat=32&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Liga 1
+http://bgtv.xyz/play/play-551.php?tlat=33&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Liga 1 FHD
+http://bgtv.xyz/play/play-551.php?tlat=34&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Directv Sports Fight
+http://bgtv.xyz/play/play-551.php?tlat=36&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Peliculas de Accion
+http://bgtv.xyz/play/play-551.php?tlat=38&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE
+http://bgtv.xyz/play/play-551.php?tlat=39&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MX: Warner Bros TV
+http://bgtv.xyz/play/play-551.php?tlat=40&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",TNT
+http://bgtv.xyz/play/play-551.php?tlat=41&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Star Channel
+http://bgtv.xyz/play/play-551.php?tlat=42&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Cinemax
+http://bgtv.xyz/play/play-551.php?tlat=43&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Cinecanal
+http://bgtv.xyz/play/play-551.php?tlat=44&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Telefe
+http://bgtv.xyz/play/play-551.php?tlat=45&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",El Trece
+http://bgtv.xyz/play/play-551.php?tlat=46&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Distrito Comedia
+http://bgtv.xyz/play/play-551.php?tlat=47&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",Telemundo Miami
+http://bgtv.xyz/play/play-551.php?tlat=48&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",History
+http://bgtv.xyz/play/play-551.php?tlat=49&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",History 2
+http://bgtv.xyz/play/play-551.php?tlat=50&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Pasiones
+http://bgtv.xyz/play/play-551.php?tlat=51&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
+http://bgtv.xyz/play/play-551.php?tlat=52&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Azteca Internacional
+http://bgtv.xyz/play/play-551.php?tlat=53&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Cinema
+http://bgtv.xyz/play/play-551.php?tlat=54&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Galavision
+http://bgtv.xyz/play/play-551.php?tlat=55&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Tlnovelas
+http://bgtv.xyz/play/play-551.php?tlat=56&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Las Estrellas (no peliculas)
+http://bgtv.xyz/play/play-551.php?tlat=57&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",USA
+http://bgtv.xyz/play/play-551.php?tlat=58&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Caracol
+http://bgtv.xyz/play/play-551.php?tlat=59&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",ATV
+http://bgtv.xyz/play/play-551.php?tlat=61&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",Univision Miami
+http://bgtv.xyz/play/play-551.php?tlat=62&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unicable
+http://bgtv.xyz/play/play-551.php?tlat=63&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Unimas
+http://bgtv.xyz/play/play-551.php?tlat=64&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Imagen TV
+http://bgtv.xyz/play/play-551.php?tlat=65&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL
+http://bgtv.xyz/play/play-551.php?tlat=66&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INFORMACIÓN",RT
+http://bgtv.xyz/play/play-551.php?tlat=67&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony FHD
+http://bgtv.xyz/play/play-551.php?tlat=68&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
+http://bgtv.xyz/play/play-551.php?tlat=70&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Don Gato y su pandilla 24/7
+http://bgtv.xyz/play/play-551.php?tlat=71&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Deportes
+http://bgtv.xyz/play/play-551.php?tlat=72&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Golden Plus
+http://bgtv.xyz/play/play-551.php?tlat=73&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Golden Edge
+http://bgtv.xyz/play/play-551.php?tlat=74&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",Golden Premier
+http://bgtv.xyz/play/play-551.php?tlat=75&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES
+http://bgtv.xyz/play/play-551.php?tlat=76&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal Sony
+http://bgtv.xyz/play/play-551.php?tlat=77&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://bgtv.xyz/play/play-551.php?tlat=78&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Universal Channel
+http://bgtv.xyz/play/play-551.php?tlat=79&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Studio Universal
+http://bgtv.xyz/play/play-551.php?tlat=80&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Multipremier
+http://bgtv.xyz/play/play-551.php?tlat=81&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",AMC
+http://bgtv.xyz/play/play-551.php?tlat=82&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Paramount Channel
+http://bgtv.xyz/play/play-551.php?tlat=83&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Cine Latino
+http://bgtv.xyz/play/play-551.php?tlat=84&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Dpelicula Plus
+http://bgtv.xyz/play/play-551.php?tlat=85&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",MTV
+http://bgtv.xyz/play/play-551.php?tlat=87&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",MTV Hits
+http://bgtv.xyz/play/play-551.php?tlat=88&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",HTV
+http://bgtv.xyz/play/play-551.php?tlat=89&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",Bandamax
+http://bgtv.xyz/play/play-551.php?tlat=90&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central
+http://bgtv.xyz/play/play-551.php?tlat=91&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Nat Geo
+http://bgtv.xyz/play/play-551.php?tlat=92&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Mi bella Genio 24/7
+http://bgtv.xyz/play/play-551.php?tlat=93&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Animal Planet
+http://bgtv.xyz/play/play-551.php?tlat=94&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Channel
+http://bgtv.xyz/play/play-551.php?tlat=95&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Turbo
+http://bgtv.xyz/play/play-551.php?tlat=96&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery HYH
+http://bgtv.xyz/play/play-551.php?tlat=97&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ID Investigation
+http://bgtv.xyz/play/play-551.php?tlat=98&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+http://bgtv.xyz/play/play-551.php?tlat=99&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Discovery TLC
+http://bgtv.xyz/play/play-551.php?tlat=100&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Theater
+http://bgtv.xyz/play/play-551.php?tlat=101&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery World
+http://bgtv.xyz/play/play-551.php?tlat=102&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://bgtv.xyz/play/play-551.php?tlat=103&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Lifetime
+http://bgtv.xyz/play/play-551.php?tlat=104&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",El Gourmet
+http://bgtv.xyz/play/play-551.php?tlat=106&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",DHE
+http://bgtv.xyz/play/play-551.php?tlat=107&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",La Familia Peluche 24/7
+http://bgtv.xyz/play/play-551.php?tlat=108&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Disney Junior
+http://bgtv.xyz/play/play-551.php?tlat=109&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Nick
+http://bgtv.xyz/play/play-551.php?tlat=110&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Azteca Uno (-1)
+http://bgtv.xyz/play/play-551.php?tlat=111&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Nick Jr
+http://bgtv.xyz/play/play-551.php?tlat=112&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",El Chapulin Colorado 24/7
+http://bgtv.xyz/play/play-551.php?tlat=113&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Cartoon Network
+http://bgtv.xyz/play/play-551.php?tlat=114&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Cartoonito
+http://bgtv.xyz/play/play-551.php?tlat=115&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Tooncast
+http://bgtv.xyz/play/play-551.php?tlat=116&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Discovery Kids
+http://bgtv.xyz/play/play-551.php?tlat=117&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico
+http://bgtv.xyz/play/play-551.php?tlat=118&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CASTELLANO",Boing
+http://bgtv.xyz/play/play-551.php?tlat=119&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",NU9VE
+http://bgtv.xyz/play/play-551.php?tlat=120&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",MTV 00s
+http://bgtv.xyz/play/play-551.php?tlat=121&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
+http://bgtv.xyz/play/play-551.php?tlat=122&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",Top Latino
+http://bgtv.xyz/play/play-551.php?tlat=123&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Usa: NBA
+http://bgtv.xyz/play/play-551.php?tlat=125&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Clic
+http://bgtv.xyz/play/play-551.php?tlat=127&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Alf 24/7
+http://bgtv.xyz/play/play-551.php?tlat=128&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Digimon 24/7
+http://bgtv.xyz/play/play-551.php?tlat=129&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A3Series
+http://bgtv.xyz/play/play-551.php?tlat=130&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Bit Me
+http://bgtv.xyz/play/play-551.php?tlat=131&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",Once TV
+http://bgtv.xyz/play/play-551.php?tlat=132&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Usa: MLB
+http://bgtv.xyz/play/play-551.php?tlat=134&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Universo
+http://bgtv.xyz/play/play-551.php?tlat=136&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 5 CL FHD
+http://bgtv.xyz/play/play-551.php?tlat=137&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",Discovery Science
+http://bgtv.xyz/play/play-551.php?tlat=139&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Gol TV FHD
+http://bgtv.xyz/play/play-551.php?tlat=142&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INFORMACIÓN",CNN ESPAÑOL FHD
+http://bgtv.xyz/play/play-551.php?tlat=143&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",South Park 24/7
+http://bgtv.xyz/play/play-551.php?tlat=146&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 2 CL FHD
+http://bgtv.xyz/play/play-551.php?tlat=148&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",NICK FHD
+http://bgtv.xyz/play/play-551.php?tlat=149&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Chavo 24/7
+http://bgtv.xyz/play/play-551.php?tlat=150&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",NFL Network
+http://bgtv.xyz/play/play-551.php?tlat=151&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",TCM
+http://bgtv.xyz/play/play-551.php?tlat=152&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Willax TV
+http://bgtv.xyz/play/play-551.php?tlat=153&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",REVOLT MUSIC
+http://bgtv.xyz/play/play-551.php?tlat=154&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",AMC FHD
+http://bgtv.xyz/play/play-551.php?tlat=155&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS FHD
+http://bgtv.xyz/play/play-551.php?tlat=156&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn Sur FHD
+http://bgtv.xyz/play/play-551.php?tlat=158&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 4 CL FHD
+http://bgtv.xyz/play/play-551.php?tlat=159&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES FHD
+http://bgtv.xyz/play/play-551.php?tlat=161&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Golden FHD
+http://bgtv.xyz/play/play-551.php?tlat=162&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Cinecanal FHD
+http://bgtv.xyz/play/play-551.php?tlat=163&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Fox News
+http://bgtv.xyz/play/play-551.php?tlat=164&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium FHD
+http://bgtv.xyz/play/play-551.php?tlat=165&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Futurama 24/7
+http://bgtv.xyz/play/play-551.php?tlat=166&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 5
+http://bgtv.xyz/play/play-551.php?tlat=167&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",NFL FHD
+http://bgtv.xyz/play/play-551.php?tlat=171&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",TNT FHD
+http://bgtv.xyz/play/play-551.php?tlat=172&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Espn 3 FHD
+http://bgtv.xyz/play/play-551.php?tlat=174&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",USA FHD
+http://bgtv.xyz/play/play-551.php?tlat=176&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports AR FHD
+http://bgtv.xyz/play/play-551.php?tlat=177&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Tigo Sports Bolivia
+http://bgtv.xyz/play/play-551.php?tlat=178&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",Unimas Miami
+http://bgtv.xyz/play/play-551.php?tlat=179&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",Usa: Fox San Francisco
+http://bgtv.xyz/play/play-551.php?tlat=180&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Next TV Paraguay
+http://bgtv.xyz/play/play-551.php?tlat=181&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 Mexico FHD
+http://bgtv.xyz/play/play-551.php?tlat=182&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CASTELLANO",BOING FHD
+http://bgtv.xyz/play/play-551.php?tlat=183&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Canal 26
+http://bgtv.xyz/play/play-551.php?tlat=184&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Canal 26 FHD
+http://bgtv.xyz/play/play-551.php?tlat=186&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",RCN Novelas
+http://bgtv.xyz/play/play-551.php?tlat=190&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Dragon Ball Super 24/7
+http://bgtv.xyz/play/play-551.php?tlat=191&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 AR FHD
+http://bgtv.xyz/play/play-551.php?tlat=192&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",RCN
+http://bgtv.xyz/play/play-551.php?tlat=193&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Movistar Deportes
+http://bgtv.xyz/play/play-551.php?tlat=194&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Universal TV FHD
+http://bgtv.xyz/play/play-551.php?tlat=195&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Terror 24/7
+http://bgtv.xyz/play/play-551.php?tlat=196&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Canal N
+http://bgtv.xyz/play/play-551.php?tlat=197&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Corazon
+http://bgtv.xyz/play/play-551.php?tlat=198&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",DAZN F1
+http://bgtv.xyz/play/play-551.php?tlat=199&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Golden
+http://bgtv.xyz/play/play-551.php?tlat=202&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Arg: America TV
+http://bgtv.xyz/play/play-551.php?tlat=274&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",EC: RTS
+http://bgtv.xyz/play/play-551.php?tlat=313&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",EC: Tele Amazonas
+http://bgtv.xyz/play/play-551.php?tlat=314&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",WWE Network
+http://bgtv.xyz/play/play-551.php?tlat=315&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",EC: TC
+http://bgtv.xyz/play/play-551.php?tlat=316&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",EC: RTU
+http://bgtv.xyz/play/play-551.php?tlat=318&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Extrema TV
+http://bgtv.xyz/play/play-551.php?tlat=319&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Los Simpson 24/7
+http://bgtv.xyz/play/play-551.php?tlat=329&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",Nick Music
+http://bgtv.xyz/play/play-551.php?tlat=331&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Warner
+http://bgtv.xyz/play/play-551.php?tlat=341&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",RCN MAS
+http://bgtv.xyz/play/play-551.php?tlat=351&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS EXTRA FHD
+http://bgtv.xyz/play/play-551.php?tlat=352&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Disney Channel
+http://bgtv.xyz/play/play-551.php?tlat=353&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Ben 10 24/7
+http://bgtv.xyz/play/play-551.php?tlat=354&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Chespirito 24/7
+http://bgtv.xyz/play/play-551.php?tlat=355&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Dinosaurios 24/7
+http://bgtv.xyz/play/play-551.php?tlat=356&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Coyote Y Corre Caminos 24/7
+http://bgtv.xyz/play/play-551.php?tlat=357&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",El Principe del rap 24/7
+http://bgtv.xyz/play/play-551.php?tlat=358&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CASTELLANO",ES: Barca TV
+http://bgtv.xyz/play/play-551.php?tlat=360&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",Universal Reality FHD
+http://bgtv.xyz/play/play-551.php?tlat=363&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Fox Sports Premium
+http://bgtv.xyz/play/play-551.php?tlat=364&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Liga 1 Max
+http://bgtv.xyz/play/play-551.php?tlat=367&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Dpelicula
+http://bgtv.xyz/play/play-551.php?tlat=370&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",Universal Premier
+http://bgtv.xyz/play/play-551.php?tlat=371&token=rtdyertyrtyr
+#EXTINF:-1 group-title="PREMIUM",Universal Cinema
+http://bgtv.xyz/play/play-551.php?tlat=372&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS FHD
+http://bgtv.xyz/play/play-551.php?tlat=256&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CONOCIMIENTO",DISCOVERY FAMILIA
+http://bgtv.xyz/play/play-551.php?tlat=262&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",TNT SPORTS
+http://bgtv.xyz/play/play-551.php?tlat=35&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Pe: Exitosa FHD
+http://bgtv.xyz/play/play-551.php?tlat=147&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",DAZN LA LIGA
+http://bgtv.xyz/play/play-551.php?tlat=361&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Canal 9
+http://bgtv.xyz/play/play-551.php?tlat=276&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Todo Noticias
+http://bgtv.xyz/play/play-551.php?tlat=278&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Television publica
+http://bgtv.xyz/play/play-551.php?tlat=320&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Telemax
+http://bgtv.xyz/play/play-551.php?tlat=160&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",NBC News
+http://bgtv.xyz/play/play-551.php?tlat=288&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Mas Chic
+http://bgtv.xyz/play/play-551.php?tlat=374&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CASTELLANO",DMAX
+http://bgtv.xyz/play/play-551.php?tlat=303&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INFORMACIÓN",RT Español
+http://bgtv.xyz/play/play-551.php?tlat=302&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",DW Español
+http://bgtv.xyz/play/play-551.php?tlat=170&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",ESPN 5
+http://bgtv.xyz/play/play-551.php?tlat=377&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",Ecuavisa
+http://bgtv.xyz/play/play-551.php?tlat=378&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",ATV MAS
+http://bgtv.xyz/play/play-551.php?tlat=380&token=rtdyertyrtyr
+#EXTINF:-1 group-title="INTERNACIONAL",TV PERU
+http://bgtv.xyz/play/play-551.php?tlat=381&token=rtdyertyrtyr
+#EXTINF:-1 group-title="LOCALES",ADN 40
+http://bgtv.xyz/play/play-551.php?tlat=382&token=rtdyertyrtyr
+#EXTINF:-1 group-title="KIDS",Baby TV
+http://bgtv.xyz/play/play-551.php?tlat=386&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",Music Top
+http://bgtv.xyz/play/play-551.php?tlat=387&token=rtdyertyrtyr
+#EXTINF:-1 group-title="MUSICA",Retro Music TV
+http://bgtv.xyz/play/play-551.php?tlat=388&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HGTV
+http://bgtv.xyz/play/play-551.php?tlat=390&token=rtdyertyrtyr
+#EXTINF:-1 group-title="CINE",Film & Arts
+http://bgtv.xyz/play/play-551.php?tlat=219&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Food Network
+http://bgtv.xyz/play/play-551.php?tlat=187&token=rtdyertyrtyr
+#EXTINF:-1 group-title="USA",Miami TV
+http://bgtv.xyz/play/play-551.php?tlat=391&token=rtdyertyrtyr
+#EXTINF:-1 group-title="24/7",Alerta Aeropuerto 24/7
+http://bgtv.xyz/play/play-551.php?tlat=347&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Claro Sports FHD
+http://bgtv.xyz/play/play-551.php?tlat=294&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",DAZN 1
+http://bgtv.xyz/play/play-551.php?tlat=275&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Win sports Plus
+http://bgtv.xyz/play/play-551.php?tlat=344&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Puerto Rico FHD
+http://bgtv.xyz/play/play-551.php?tlat=188&token=rtdyertyrtyr
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Telemundo Internacional
+http://bgtv.xyz/play/play-551.php?tlat=345&token=rtdyertyrtyr
+#EXTINF:-1 group-title="DEPORTES",Tigo sports
+http://bgtv.xyz/play/play-551.php?tlat=346&token=rtdyertyrtyr
