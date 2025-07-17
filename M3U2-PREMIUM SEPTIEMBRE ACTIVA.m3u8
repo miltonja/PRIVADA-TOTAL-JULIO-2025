@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1  tvg-name="MI TURNO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Ghwn7Nk5/MI-TURNO-TV.png",🔆|➾MI TURNO TV 
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1  tvg-name="GARABITO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/9f3FrS7X/GARABITO-TV.png",🔆|➾GARABITO TV HD
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1  tvg-name="DAMAS TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/2j1R5BPC/DAMAS-TV-MEJOR.png",🔆|➾DAMAS TV HD
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+#EXTINF:-1  tvg-name="BARBE TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/6QzdCgB5/BARBE-TV.png",🔆|➾BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1  tvg-name="COSMOS TV HD SAN JUAN"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png",🔆|➾COSMOS TV HD SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1  tvg-name="CINEMA +"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/ExZeBRf.png",🔆|➾CINEMA +
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1  tvg-name="CR TELEVISION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/DykqPGVG/CR-TELEVISION.png",🔆|➾CR TELEVISISON
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png",🔆|➾RED TV VENTANAS
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="CANAL 3 IMPRESIONANTE"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/mdfiWG9.png",🔆|➾CANAL 3 IMPRESIONANTE
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1  tvg-name="FEECUENCIA MUSICAL"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/vPxvbVv.png",🔆|➾FRECUENCIA MUSICAL
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="AMC EN ESPAÑOL"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png",🔆|➾AMC EN ESPAÑOL
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="MY TIME MOVIES 1"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/1z6GRsJL/MY-TIME-1.png",🔆|➾MY TIME MOVIES 1
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="MY TIME MOVIES 2"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/k4mxBzHD/MY-TIME-2.png",🔆|➾MY TIME MOVIES 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+#EXTINF:-1  tvg-name="SOL TV HD"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/BZBpYzPN/SOL-TV-MEJOR.png",🔆|➾SOL TV HD
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+#EXTINF:-1  tvg-name="NEO TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/L84vcjgs/Neo-Tv.png",🔆|➾NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="RUN TIME LATINO"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png",🔆|➾✩»→RUN TIME LATINO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1  tvg-name="RUN TIME FILMS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png",🔆|➾✩»→RUN TIME FILMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1  tvg-name="RUN TIME ESPAÑOL"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/X7WxYYcY/runtime-espanol.png",🔆|➾✩»→RUN TIME ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1  tvg-name="RUN TIME FAMILIA"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/QtBGHJc8/Runtime-familia.png",🔆|➾✩»→RUN TIME FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1  tvg-name="RUN TIME TERROR"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/fbRhhNL0/Runtime-Terror.png",🔆|➾✩»→RUN TIME TERROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1  tvg-name="RUN TIME CRIME"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/fyxP92yN/Runtime-CRIMEN-1.png",🔆|➾✩»→RUN TIME CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1  tvg-name="RUN TIME COMEDIA"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/fb7m9LH9/Runtime-Comedia-ESP.png",🔆|➾✩»→RUN TIME COMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1  tvg-name="RUN TIME ACCION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/RFbmsCWs/Runtime-Accio-ESP.png",🔆|➾✩»→RUN TIME ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="🔆»→CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1  tvg-name="MY TIME MOVIE NETWORK"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME MOVIE NETWORK
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="RUN TIME"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/TwWQpy4p/RUN-TIME-BLANCO.png",🔆|➾RUN TIME 
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1  tvg-name="RUN TIME ACTION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/CK2mhCJ3/RUN-TIME.png",🔆|➾RUN TIME ACTION
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 tvg-name="MY TIME ESPAÑA"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME ESPAÑA
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MY TIME MEXICO"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/0QssJQFr/MY-TIME-MOVIE.png",🔆|➾MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FMH FAMILY"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🔆|➾FMH FAMILY
+http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="💢PELICULAS💢" tvg-logo="https://i.postimg.cc/CLcscG4m/NICOYA-TV.png",💢|➾NICOYA TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="💢PELICULAS💢" tvg-logo="https://i.postimg.cc/NfN2CBWw/infinita-en-vivo.png",💢|➾INFINITA TV MOVIES
