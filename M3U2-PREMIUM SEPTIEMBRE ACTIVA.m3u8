@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="MI TURNO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Ghwn7Nk5/MI-TURNO-TV.png",🔆|➾MI TURNO TV 
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
-#EXTINF:-1  tvg-name="GARABITO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/9f3FrS7X/GARABITO-TV.png",🔆|➾GARABITO TV HD
+#EXTINF:-1  tvg-name="GARABITO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/9f3FrS7X/GARABITO-TV.png",🔆|➾GARABITO TV 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1  tvg-name="DAMAS TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/2j1R5BPC/DAMAS-TV-MEJOR.png",🔆|➾DAMAS TV HD
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
