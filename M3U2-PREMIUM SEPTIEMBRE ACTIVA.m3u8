@@ -361,9 +361,9 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/vH3w3pWb/BARCELONA-ONE-TV.png",💢|➾TOP BARCELONA
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
-#EXTINF:-1 group-title="💢PREMIUM💢",💢CANAL 57 USA
+#EXTINF:-1 group-title="💢PREMIUM💢"tvg-logo="https://i.postimg.cc/SKsFSLVj/CANAL_57_BLANCO.png",💢CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
-#EXTINF:-1 group-title="💢PREMIUM💢",💢PELIS MEXICO
+#EXTINF:-1 group-title="💢PREMIUM💢"tvg-logo="https://i.postimg.cc/MGbrRZ0B/Cine-Mexicano-Cubaplay-Landing-Pages-03.png",💢PELIS MEXICO
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",💢ESTRELLA NEWS
 https://estrellanews-roku.amagi.tv/playlist.m3u8
@@ -3331,5 +3331,6 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
