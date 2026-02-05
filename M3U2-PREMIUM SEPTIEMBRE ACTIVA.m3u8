@@ -417,7 +417,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536f
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="🔶⚽ DEPORTES ⚽🔶" tvg-logo="https://i.postimg.cc/0N0RnsGx/ITV-DEPORTES.png",⚽🔶|➾ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="🔶⚽ DEPORTES ⚽🔶" tvg-logo="https://i.postimg.cc/L6tyG67q/latest-cb-20170917052727-path-prefix-es.webp",⚽🔶|➾AYM SPORTS
+#EXTINF:-1 group-title="🔶⚽ DEPORTES ⚽🔶" tvg-logo="https://i.postimg.cc/d3mtQg3W/AYM_SPORTS.jpg",⚽🔶|➾AYM SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 group-title="🔶⚽ DEPORTES ⚽🔶" tvg-logo="https://i.postimg.cc/wxC658z7/real-madrid-tv-es.png",⚽🔶|➾REALMADRID TB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -735,7 +735,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="←«🔆ECUADOR🔆»→" tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg",🔆|➾ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/HskfSdhY/Logo-DASDING-265x133.webp",🔆|➾DASDING 90.8
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/6QtLRrpx/1280px-Dasding-Logo-2022-svg.png",🔆|➾DASDING 90.8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→" tvg-logo="https://i.postimg.cc/1XHf1pSg/image.png",🔆|➾Dali TV (大立電視台)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -3331,6 +3331,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
