@@ -249,7 +249,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 #EXTINF:-1 group-title="💢MEXICO💢" tvg-logo="https://i.postimg.cc/YqGHgxwF/CANAL-57-BLANCO.png",💢|➾ US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="💢COSTA RICA💢" tvg-logo="https://radioextremacr.com/img/logo.png",EXTREMA TV
+#EXTINF:-1 group-title="💢COSTA RICA💢" tvg-logo="https://i.postimg.cc/Dyfc8d05/logog.png",💢|➾ EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.postimg.cc/Twy3NV7P/khronehit-tv.png",KRONEHIT TV HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -3331,4 +3331,5 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
