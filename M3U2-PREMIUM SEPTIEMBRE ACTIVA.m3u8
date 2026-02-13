@@ -883,21 +883,21 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/PrQXgV1G/STADIUM_ESP.png",🔆|➾ - US | STADIUM TV
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kGscnTVV/VoxPopuli_Chile.png",🔆|➾VOZ POPULI
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/cH8jnHZp/GIROVISUAL.jpg",🔆|➾GIROVISUAL
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾MILLENIUM TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/02tPmHD6/MILLENIUM_TV.png",🔆|➾MILLENIUM TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CADENA ELITE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/x8fvSxsy/logo-Menu.png",🔆|➾CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CONECTA TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Hn2F0XbS/CONECTA_TV.png",🔆|➾CONECTA TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CANAL 34 SAN JUAN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/c4w5qJLC/canal-34-san-juan.png",🔆|➾CANAL 34 SAN JUAN
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾DGO: CANAL 10
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/25JjYV2n/POP-FM-95-7.jpg",🔆|➾+ POP FM 95.7
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ MEXIQUENSE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",🔆|➾ MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LMB: CANAL ONCE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾LMB: CANAL ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾HN: VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -3325,6 +3325,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
