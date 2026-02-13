@@ -865,11 +865,9 @@ https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/2y65SFq6/RCN_MAS.png",🔆|➾RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ GTO TV4.1
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CANAL 8.1 SIPSE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/g09BDb8W/logoCCaliado-patronoSIPSE-570x570.png",🔆|➾CANAL 8.1 SIPSE
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CANAL 8.1 SIPSE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/g09BDb8W/logoCCaliado-patronoSIPSE-570x570.png",🔆|➾CANAL 8.1 SIPSE
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ GTO TV4.1 UHD
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
@@ -3329,6 +3327,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
