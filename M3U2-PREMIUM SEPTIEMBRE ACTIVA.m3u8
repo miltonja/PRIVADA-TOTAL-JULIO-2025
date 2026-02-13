@@ -831,41 +831,39 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/0NmRs288/FREE_TV_SABER_MAS.png",🔆|➾FEREE TV SABER MAS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/13rioja.png/revision/latest?cb=20210526011004&path-prefix=es",🔆|➾CANAL 13 LA RIOJA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/TP7TFgb3/canal_13_la_rioja.png",🔆|➾CANAL 13 LA RIOJA
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/YqgpVVQs/Canal-2-Posadas-en-vivo-Online-1.png",🔆|➾CANAL 2 MISIONES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/JzhbFk9T/CANAL-2-POSADAS.png",🔆|➾CANAL 2 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/9fDyL0vm/INWONDER_ESP.png",🔆|➾InWonder
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderushd-samsungca/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CANAL 26 AGUASCALIENTES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/YCYzvZ5N/Canal_26_TV_Aguascalientes_en_vivo.png",🔆|➾CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TV PEÑOL
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/fySp3Jwg/EL_PEÑOL.png",🔆|➾TV PEÑOL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾SATEL CANAL 4
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/hG1c7XtZ/CANAL-SATEL.png",🔆|➾SATEL CANAL 4
 https://server.asilivehd.com:3802/live/canal4live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾CABNAL 14 CODAZI
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wBg6N5SW/canal_14_codazi.png",🔆|➾CANAL 14 CODAZI
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Caribbean Advantage TV
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 8 TV+
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/257NK2GC/CANAL_8_TV_SALGAR.png",🔆|➾CANAL 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾VIVE TELEVISION
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/vZbt63bP/178329-1bec007cc5914e4497450b9ba5befda9-mv2.png",🔆|➾VIVE TELEVISION
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾Az Mundo
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Qx9CHDDv/AZ_MUNDO.png",🔆|➾Az Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾Az Clic
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/3Nb5mK25/click.png",🔆|➾Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ MULTIMEDIOS LAGUNA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL1YKN3B/1200px-Multimedios_Canal_Seis_Logo.svg.png",🔆|➾ MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ MULTIMEDIOS GUADALAJARA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL1YKN3B/1200px-Multimedios_Canal_Seis_Logo.svg.png",🔆|➾ MULTIMEDIOS GUADALAJARA
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ 🏵️|➾MULTIMEDIOS PUEBLA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL1YKN3B/1200px-Multimedios_Canal_Seis_Logo.svg.png",🔆|➾ MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ MULTIMEDIOS BAJIO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL1YKN3B/1200px-Multimedios_Canal_Seis_Logo.svg.png",🔆|➾ MULTIMEDIOS BAJIO
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ MULTIMEDIOS SALTILLO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL1YKN3B/1200px-Multimedios_Canal_Seis_Logo.svg.png",🔆|➾ MULTIMEDIOS SALTILLO
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾RCN Mas
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/2y65SFq6/RCN_MAS.png",🔆|➾RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ GTO TV4.1
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
@@ -3331,6 +3329,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
