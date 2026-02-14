@@ -13,6 +13,8 @@ https://amg00082-amg00082c1-distrotv-us-7248.playouts.now.amagi.tv/playlist/amg0
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 group-title="💢TEMATICA💢" tvg-logo="https://i.postimg.cc/BQfLnL6Y/2560px-Viajar-Tv-logo-svg.png",💢|➾VIAJAR
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/GpW9dQC6/Nex-TV.png",🔆|➾Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Ghwn7Nk5/MI-TURNO-TV.png",🔆|➾MI TURNO TV
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/9f3FrS7X/GARABITO-TV.png",🔆|➾GARABITO TV
@@ -925,25 +927,25 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾MetropolaTV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ImpactTVManele
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bJwkSgMc/IMPAC-TV-MANELE.png",🔆|➾ImpactTVManele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ImpactTVDance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bJwkSgMc/IMPAC-TV-MANELE.png",🔆|➾ImpactTVDance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾EXPOLRIS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/056Zt5Wk/exploris-1.png",🔆|➾EXPOLRIS TV
 http://89.38.8.130:39419
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ComedyPlay
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ATOMIC ACADEMY TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Kz3L5jZW/Atomic-TV.png",🔆|➾ATOMIC ACADEMY TV
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ATOMIC TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/65fZcDX5/250px-Atomic-TV-2022.png",🔆|➾ATOMIC TV
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Bruno Masi TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nzmjDWk0/LOGO-BM-senal-de-tv.png",🔆|➾Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Farra Play
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/G2KjG4CM/FARRA_PLAY.png",🔆|➾Farra Play
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ LIM TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/SRYkJfJQ/LIM_TV.png",🔆|➾ LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Next HD
+#EXTINF:-1 group-title="←«🔆PELICULAS🔆»→"tvg-logo="https://i.postimg.cc/GpW9dQC6/Nex-TV.png",🔆|➾Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
@@ -3323,6 +3325,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
