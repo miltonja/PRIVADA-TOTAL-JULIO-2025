@@ -947,23 +947,23 @@ http://159.203.148.226/live/farra.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 group-title="←«🔆PELICULAS🔆»→"tvg-logo="https://i.postimg.cc/GpW9dQC6/Nex-TV.png",🔆|➾Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾UnionTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Dwbg2dmD/UNION_TV.png",🔆|➾UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVIFiccao
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/cLfbF1Js/TVI-Ficcao-(2017).png",🔆|➾TVIFiccao
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVIAfrica
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/FzfP3Nqk/latest-cb-20200823174359.jpg",🔆|➾TVIAfrica
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Planet1009FM
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/mg3mQddL/planet-logo-400.png",🔆|➾Planet1009FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾HosannaVision
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/50rgxD04/hosanna-logo.png",🔆|➾HosannaVision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾WTVCanal20
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yYczZDgD/W_TV_NICARAGUA.png",🔆|➾WTVCanal20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVONENicaragua
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/DfbHScKj/logo-central-correcto2.png",🔆|➾TVONENicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾EstrellaNews
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KzYZXFp0/ESTRELLA_NEWS_ESP.png",🔆|➾EstrellaNews
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EstrellaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/HxGNhGRy/ESTRELLA_NEWS.png",🔆|➾EstrellaTV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MNetKids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
@@ -3325,6 +3325,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
