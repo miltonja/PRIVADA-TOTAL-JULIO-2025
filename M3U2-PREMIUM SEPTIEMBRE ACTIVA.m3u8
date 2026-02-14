@@ -965,125 +965,125 @@ https://hdbox.chunklistv.com/live?stream=tvone
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/HxGNhGRy/ESTRELLA_NEWS.png",🔆|➾EstrellaTV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MNetKids
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/K8sD7dPg/g-I-136267-Net-Kids-Logo-Horizontal-1.png",🔆|➾MNetKids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VBMediaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾VBMediaTV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾UltraTVPuebla
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾UltraTVPuebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾UMTV MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾UMTV MEXICO
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVUJAT MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾TVUJAT MEXICO
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVMAX MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾TVMAX MEXICO
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XHGVTDT MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾XHGVTDT MEXICO
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVP CULIACAN MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾TVP CULIACAN MEXICO
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVP LOS MOCHIS MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TVP LOS MOCHIS MEXICO
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVP MAZATLAN MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TVP MAZATLAN MEXICO
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVP OBREGON MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TVP OBREGON MEXICO
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TV CUATRO 4.2 MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TV CUATRO 4.2 MEXICO
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RalyTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RalyTV
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RCGTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RCGTV
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LoboTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LoboTV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ExpresaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ExpresaTV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CONECTA TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CONECTA TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 26 AGUAS CALIENTES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 26 AGUAS CALIENTES
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ILCECanal15SummaSaberes
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ILCECanal15SummaSaberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANALl 10 CANCUN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANALl 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AMX NOTICIAS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AMX NOTICIAS TV
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ADN 40
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AlCANCE TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AlCANCE TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾THE PETCOLLECTIVE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾THE PETCOLLECTIVE
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SPORTOUTDOOR TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SPORTOUTDOOR TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾PEOPLE AREWESOME
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾PEOPLE AREWESOME
 https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FAILARMY
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FAILARMY
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RTL1025NEWS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RTL1025NEWS
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RTL1025RomeoJuliet
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RTL1025RomeoJuliet
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RadioStudioDeltaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RadioStudioDeltaTV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RadioIbizaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RadioIbizaTV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RadioNumberOne
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RadioNumberOne
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RadioBirikinaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RadioBirikinaTV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾m2oTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾m2oTV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KissKissNapoliTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KissKissNapoliTV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KissKissTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KissKissTV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KissKissTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KissKissTV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KissKissTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KissKissTV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾InterTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾InterTV
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾eTvMarche
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾eTvMarche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾eTvRete7
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾eTvRete7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EuroIndieMusic
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EuroIndieMusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ENTELLA TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ENTELLA TV
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ESPERIA TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ESPERIA TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ESPERIA TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ESPERIA TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾DEEJAY TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾COMPANY TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾COMPANY TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ALTO ADIGE TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ALTO ADIGE TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾51 RADIO-TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾51 RADIO-TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾51 RADIO-TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾51 RADIO-TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾70-80-TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾70-80-TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TV CENTRO 272
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TV CENTRO 272
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TV CENTRO HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TV COPAN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TV COPAN
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾METROPOLIS 19.2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TELE RAYO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TELE RAYO
 https://s.emisoras.tv:8081/telerayo/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LA TOP 102.9
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LA TOP 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LA TOP 1077
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LA TOP 1077
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VISION TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVFlorencia
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TVFlorencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾El ROI TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
@@ -3325,6 +3325,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
