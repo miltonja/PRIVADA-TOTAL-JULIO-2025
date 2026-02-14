@@ -839,13 +839,13 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderushd-samsungca/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/YCYzvZ5N/Canal_26_TV_Aguascalientes_en_vivo.png",🔆|➾CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/fySp3Jwg/EL_PEÑOL.png",🔆|➾TV PEÑOL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/fySp3Jwg/EL_PEÑOL.png",🔆|➾TV PEÑOL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/hG1c7XtZ/CANAL-SATEL.png",🔆|➾SATEL CANAL 4
 https://server.asilivehd.com:3802/live/canal4live.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wBg6N5SW/canal_14_codazi.png",🔆|➾CANAL 14 CODAZI
 https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/257NK2GC/CANAL_8_TV_SALGAR.png",🔆|➾CANAL 8 TV+
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/257NK2GC/CANAL_8_TV_SALGAR.png",🔆|➾CANAL 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/vZbt63bP/178329-1bec007cc5914e4497450b9ba5befda9-mv2.png",🔆|➾VIVE TELEVISION
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
@@ -897,27 +897,25 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",🔆|➾ MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾LMB: CANAL ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾HN: VTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/sXmGVWDk/icon.png",🔆|➾HN: VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ThePetCollective
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/x13G24VB/THE_PET_COLLECTIVE.png",🔆|➾ThePetCollective
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾Strongman Champions League
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rmvxWhxn/STRONGMANG-CHAMPIONS.png",🔆|➾Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾PeopleAreAwesome
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Z5zy030p/PEOPLE_AWESOME.png",🔆|➾PeopleAreAwesome
 https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾FailArmy
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/TPVD5NKD/FAILARMY.png",🔆|➾FailArmy
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾ExpressenTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/fTmtL1LY/Express-TV.png",🔆|➾ExpressenTV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾KC2 TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/mrHQ67R3/KC2_ESP.png",🔆|➾KC2 TV
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾KC2 TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/B65Q5N5X/KC2.png",🔆|➾KC2 TV
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾IsangoTV
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/1zhQWw36/ISANGO_TV.png",🔆|➾IsangoTV
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RUTV
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/Jh4R2f7x/rutv.png",🔆|➾RUTV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 ,#MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -3325,6 +3323,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
