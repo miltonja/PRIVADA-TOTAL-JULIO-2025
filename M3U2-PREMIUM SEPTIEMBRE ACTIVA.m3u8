@@ -1,6 +1,52 @@
 #EXTM3U
 #EXTINF:-1 group-title="←«🔆PELICULAS🔆»→"tvg-logo="https://i.postimg.cc/Vsx6t401/NEXT_TV.png",🔆|➾Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1tvg-name="💢Kaloopy HD"tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png"group-title="💢LIFESTYLE💢",💢|➾Kaloopy HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
+#EXTINF:-1tvg-name="💢VEVO ICONOS LATINOS"tvg-logo="https://i.postimg.cc/wMtwCMN6/VEVO-REGIONAL-MEXICO.png"group-title="💢VEVO TV💢",💢|➾VEVO ICONOS LATINO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1tvg-name="OXI TV "group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/5yx3sYYm/3801-640x360-FFFFFF.png",🔆|➾OXI TV 
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1tvg-name="ELIAS PIÑA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/mZzk00K3/ELIAS-PI-A.png",🔆|➾ELIAS PIÑA TV 
+https://live.eliaspinatv.com.do/livelan/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-name="AURORA MEDIA FILMS TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/ydz1gzWB/AURORA-MEDIA-FILMS.png",🔆|➾AURORA MEDIA FILMS
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="←«🔆VENEZUELA🔆»→" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png",530 | TVS || VENEZUELA
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LX9pr521/Red-TVE-Ventanas.png",🔆|➾RED TV VENTANAS
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+#EXTINF:-1  tvg-name="TELE RUMBA  TV"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/XJv8P9mH/TELERUMBA.png",🔆|➾TELE RUMBA TV HD
+https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
+#EXTINF:-1  tvg-name="4 MUSIC HD TV"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/VsTP6DN3/4-MUSIC-HD-ESP.png",🔆|➾4 MUSIC HD TV
+https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name=" 1Mus HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/rp72rfMn/1music.png",🔆|➾1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-name="REAL MADRID"group-title="🔆←«DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/wxC658z7/real-madrid-tv-es.png",🔆|➾REAL MADRID 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="DAZN CAOMBAT"group-title="🔆←«DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/DwMvpzSP/image.png",🔆|➾DAZN CAOMBAT
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="TOP BARCELONA"group-title="🔆←«DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/kXndNnRT/BARCA-ONE-TV.png",🔆|➾TOP BARCELONA
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆MUSICA LATINA🔆»→" tvg-logo="https://i.imgur.com/qZzSOeU.png",Radio Cuenca Estéreo
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/vHs7FwfC/BEIN-SPORTS-EXTRA-1.png",beIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png",beIN SPORTS XTRA Espanol
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/Hxv8PYg6/image.png",BEIN SPORTS
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/Hxv8PYg6/image.png",BEIN SPORTS (MMNHD)
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+#EXTINF:-1 group-title="←«🔆ROMANIA_MOLDOVA🔆»→" tvg-logo="https://i.imgur.com/EPmwuuv.png",Antena 1
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 group-title="←«🔆MUSIC  TV🔆»→"tvg-logo="https://verbenafm.com/wp-content/uploads/2022/08/logoverbenatv-300x300.png",Verbena TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 group-title="←«🔆REGIONALES🔆»→" tvg-logo="https://i.postimg.cc/j51WFSKQ/MEGA-TV-JAEN-CAJAMARCA-esp.png",419 | Mega TV || Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 group-title="💢FILMS 24/7💢" tvg-logo="https://i.postimg.cc/2SDB5qHj/e1703a9f-f50f-4119-87a0-1a403337085c-1739988085-276071-256x256.jpg",💢|➾Chicas Guapas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
 #EXTINF:-1 group-title="💢MUSICA LATINA💢" tvg-logo="https://i.postimg.cc/VNQH7FL9/HITS-MEXICANOS.png",💢|➾HITS MEXICANOS
@@ -3327,6 +3373,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
