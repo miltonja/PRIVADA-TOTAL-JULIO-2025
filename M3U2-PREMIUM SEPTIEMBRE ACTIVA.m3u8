@@ -917,49 +917,49 @@ https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/Jh4R2f7x/rutv.png",🔆|➾RUTV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 ,#MoozDance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qRLvYPLc/Mooz_Dance_(2013-.n.v.).png",MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 ,#MoozHits
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/J7kTNRpB/Mooz_Hits_(2013-.n.v.).png",MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 ,#MoozRo
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/90CqwPxb/mooz-ro1.png",MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MetropolaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾MetropolaTV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ImpactTVManele
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ImpactTVManele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ImpactTVDance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ImpactTVDance
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EXPOLRIS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾EXPOLRIS TV
 http://89.38.8.130:39419
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ComedyPlay
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ComedyPlay
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ATOMIC ACADEMY TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ATOMIC ACADEMY TV
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ATOMIC TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ATOMIC TV
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bruno Masi TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Farra Play
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Farra Play
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ LIM TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾ LIM TV
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Next HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾UnionTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVIFiccao
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVIFiccao
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVIAfrica
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVIAfrica
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Planet1009FM
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾Planet1009FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾HosannaVision
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾HosannaVision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WTVCanal20
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾WTVCanal20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TVONENicaragua
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾TVONENicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EstrellaNews
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾EstrellaNews
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EstrellaTV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -3323,6 +3323,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
