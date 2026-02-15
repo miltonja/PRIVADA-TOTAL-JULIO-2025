@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="←«🔆CULTURA🔆»→"tvg-logo="https://i.postimg.cc/gj51yRdb/infast_c.png",🔆|➾INFAST TV HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="←«🔆PELICULAS🔆»→"tvg-logo="https://i.postimg.cc/qqnRGyrm/NEXT.png",🔆|➾Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1tvg-name="💢Kaloopy HD"tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png"group-title="💢LIFESTYLE💢",💢|➾Kaloopy HD
@@ -1011,7 +1013,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KzYZXFp0/ESTRELLA_NEWS_ESP.png",🔆|➾EstrellaNews
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/HxGNhGRy/ESTRELLA_NEWS.png",🔆|➾EstrellaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HxGNhGRy/ESTRELLA_NEWS.png",🔆|➾EstrellaTV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/K8sD7dPg/g-I-136267-Net-Kids-Logo-Horizontal-1.png",🔆|➾MNetKids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
@@ -3373,6 +3375,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
