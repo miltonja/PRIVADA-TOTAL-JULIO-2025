@@ -963,7 +963,7 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/B65Q5N5X/KC2.png",🔆|➾KC2 TV
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/1zhQWw36/ISANGO_TV.png",🔆|➾IsangoTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/1zhQWw36/ISANGO_TV.png",🔆|➾IsangoTV
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/Jh4R2f7x/rutv.png",🔆|➾RUTV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
@@ -1137,73 +1137,73 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AuroraMediaFilms
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FASHION TV UHD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RETRO MUSIC
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾COTO BRUS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾COTO BRUS
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Megaclassic TV | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Megaclassic TV | AR
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Chaco TV | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chaco TV | AR
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Canal 5 del Pueblo | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Canal 5 del Pueblo | AR
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Canal 4 Posadas | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Canal 4 Posadas | AR
 https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Canal 4 San Juan | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Canal 4 San Juan | AR
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BUM TELEVISION
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BUM TELEVISION
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BUM TELEVISION
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BUM TELEVISION
 https://video.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ TVE 24H | ES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ TVE 24H | ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾La 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XPTV1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XPTV2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Punt 3 VALL UIXO
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾PLATZI TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POP WORLD TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POP WORLD TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ETB 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ETB 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ETB BASQUE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB BASQUE
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾INFAST TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ MMC -Freetv.com | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ MMC -Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Latin Zone TV | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Miami TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Miami TV
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾La Mega Mundial USA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La Mega Mundial USA
 https://server40.servistreaming.com:3477/hybrid/play.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾❄️|➾RCN MAS + -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾RCN MAS + -TCL
 https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾❄️|➾RCN MAS + -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾RCN MAS + -TCL
 https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾⚽️|➾BEIN SPORTS EXTRA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾⚽️|➾BEIN SPORTS EXTRA TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾BEIN SPORTS EXTRA TCL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾⚽️|➾ WORLD BILLARD TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾ WORLD BILLARD TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Chili Alta Tensione
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Alta Tensione
 https://chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Chili Buonu more
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Buonu more
 https://chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Chili Indimenticabili (IT)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Chili Indimenticabili (IT)
 https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Chili Velvet (IT)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Velvet (IT)
 https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ ON TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
@@ -3373,6 +3373,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
