@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/d1Vk0fG5/ESPN2.png",❄️|➾ESPN EN VIVO
+http://181.78.23.26:45000/play/a02p
+#EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/rm6MWrWx/WinSportsMás2022.png",❄️|➾WIN SPORTS +
+http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 group-title="←«🔆CULTURA🔆»→"tvg-logo="https://i.postimg.cc/gj51yRdb/infast_c.png",🔆|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="←«🔆PELICULAS🔆»→"tvg-logo="https://i.postimg.cc/qqnRGyrm/NEXT.png",🔆|➾Next HD
@@ -3375,6 +3379,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
