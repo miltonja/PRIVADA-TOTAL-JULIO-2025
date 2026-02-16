@@ -1023,13 +1023,13 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾VBMediaTV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾UltraTVPuebla
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/MTHBmDzs/nota-ultravision-entra-al-mercado-everywhere-con-su-app.jpg",🔆|➾UltraTVPuebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾UMTV MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/5298t1ZJ/logo-site-1759356368.png",🔆|➾UMTV MEXICO
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾TVUJAT MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/VvLbkWVk/TVUJAT-MEXICO.png",🔆|➾TVUJAT MEXICO
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾XHGVTDT MEXICO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nhYZ3fzs/TV-MAS-MEXICO.png",🔆|➾XHGVTDT  TVMAS MEXICO
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/7YkvCQHG/TVP_CULIACAM.png",🔆|➾TVP CULIACAN MEXICO
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
@@ -3377,6 +3377,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
