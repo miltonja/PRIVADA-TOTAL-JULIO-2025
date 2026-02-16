@@ -43,9 +43,9 @@ https://eu1.servers10.com:8081/8074/index.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆DEPORTES🔆»→" tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png",beIN SPORTS XTRA Espanol
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/Hxv8PYg6/image.png",BEIN SPORTS
+#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/sXzZhcby/MMN_SPORT.png",MMN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/Hxv8PYg6/image.png",BEIN SPORTS (MMNHD)
+#EXTINF:-1 group-title="←«🔆SPORT TV🔆»→" tvg-logo="https://i.postimg.cc/ydKSZP27/MMN_SPORTS_ESP.png",MMN SPORTS (MMNHD)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1 group-title="←«🔆ROMANIA_MOLDOVA🔆»→" tvg-logo="https://i.imgur.com/EPmwuuv.png",Antena 1
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
@@ -3379,6 +3379,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
