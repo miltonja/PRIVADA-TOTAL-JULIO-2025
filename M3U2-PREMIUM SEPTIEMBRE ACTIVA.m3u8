@@ -979,11 +979,11 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/90CqwPxb/mooz-ro1.png",MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=,🔆|➾MetropolaTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yxMtTdZL/Metropola_TV_(2020).png",🔆|➾MetropolaTV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bJwkSgMc/IMPAC-TV-MANELE.png",🔆|➾ImpactTVManele
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2230HqT/IMPACTV-MANELE.png",🔆|➾ImpactTVManele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bJwkSgMc/IMPAC-TV-MANELE.png",🔆|➾ImpactTVDance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2230HqT/IMPACTV-MANELE.png",🔆|➾ImpactTVDance
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/056Zt5Wk/exploris-1.png",🔆|➾EXPOLRIS TV
 http://89.38.8.130:39419
@@ -3379,6 +3379,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
