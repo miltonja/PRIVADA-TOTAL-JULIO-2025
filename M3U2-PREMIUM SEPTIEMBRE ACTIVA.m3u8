@@ -1107,7 +1107,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wjS4371R/ras-logo-altoadigetv.png",🔆|➾ALTO ADIGE TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qqSyQCVR/51-tv.png,🔆|➾51 RADIO-TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qqSyQCVR/51-tv.png",🔆|➾51 RADIO-TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qqSyQCVR/51-tv.png",🔆|➾51 RADIO-TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
@@ -1115,7 +1115,7 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wj1x9V59/TV_CENTRO_ITALIA.png",🔆|➾TV CENTRO 272
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/wj1x9V59/TV_CENTRO_ITALIA.png",🔆|➾TV CENTRO HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wj1x9V59/TV_CENTRO_ITALIA.png",🔆|➾TV CENTRO HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wMXmzx7n/TV-COPAN.png",🔆|➾TV COPAN
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
@@ -1131,13 +1131,13 @@ https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/2SF90jtX/Tv-Florencia.png",🔆|➾TVFlorencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/5yLRMz5C/elroitv.png",🔆|➾El ROI TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/5yLRMz5C/elroitv.png",🔆|➾El ROI TV
 https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/ydz1gzWB/AURORA_MEDIA_FILMS.png",🔆|➾AuroraMediaFilms
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/C5X1QbZ0/FASHION_TV_2.png",🔆|➾FASHION TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/BvM8yNKy/800px-Retro_Music_TV_logo.png",🔆|➾RETRO MUSIC
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/BvM8yNKy/800px-Retro_Music_TV_logo.png",🔆|➾RETRO MUSIC
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/5yJkjsXg/COTO_BRUST_TV.png",🔆|➾COTO BRUS
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -1155,51 +1155,51 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/j2vwPp0D/BUM_TV_BLANCO.png",🔆|➾BUM TELEVISION
 https://video.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ TVE 24H | ES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/hjQmP0g4/24_HORAS.png",🔆|➾ TVE 24H | ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/YSB15cBQ/1200px-Logo_La_1_UHD_2024.svg.png",🔆|➾La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XPTV1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.imgur.com/Ty7GkoN.png",🔆|➾XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XPTV2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kgpmvkcW/de3f69ddebbd2a08500da58ed72d9888be5edd0dad6935565c442014a752a0e9.png",🔆|➾XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Punt 3 VALL UIXO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/PJyGpcJm/punt3logotarifas.png",🔆|➾Punt 3 VALL UIXO
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾PLATZI TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/761ddcgB/Platzi-Logo-e2f36f10bc.png",🔆|➾PLATZI TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POP WORLD TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/j2ggrrCB/popworld-logo-300x300.png",🔆|➾POP WORLD TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/PqHY05VZ/ETB_1.png",🔆|➾ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/L8Ljy1D2/ETB_2.png",🔆|➾ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB BASQUE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yNQNX7pZ/ETB_BASQUE_ESP.png",🔆|➾ETB BASQUE
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾INFAST TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/pTQWDVrL/infast_c.png",🔆|➾INFAST TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ MMC -Freetv.com | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/CLtqGZsh/mmc-logo.png",🔆|➾ MMC -Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Latin Zone TV | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/tCwxB5KY/LATIN_ZONE.png",🔆|➾Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Miami TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv_LATINO.png",🔆|➾Miami TV
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La Mega Mundial USA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/LXwFKSSd/LA_MEGA_MUNDIAL.png",🔆|➾La Mega Mundial USA
 https://server40.servistreaming.com:3477/hybrid/play.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾RCN MAS + -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/0ymNQCXG/RCN_MAS.png",🔆|➾❄️|➾RCN MAS + -TCL
 https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾RCN MAS + -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/2y65SFq6/RCN_MAS.png",🔆|➾❄️|➾RCN MAS + -TCL
 https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾BEIN SPORTS EXTRA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yNZKY2rF/bein_sports_ñ.png",🔆|➾⚽️|➾BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾BEIN SPORTS EXTRA TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA_BEIN_SPORTS.png",🔆|➾⚽️|➾BEIN SPORTS EXTRA TCL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⚽️|➾ WORLD BILLARD TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/j21Xqsmd/World_Billiards_logo.svg.png",🔆|➾⚽️|➾ WORLD BILLARD TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3726&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=27b9467f-5a92-4ae0-b13c-e4cb85608690&ads.user_type=visitor&ads.wurl_channel=967
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Alta Tensione
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/4y9Z170z/CHILE_ALTA_TENSIONE-.png",🔆|➾ Chili Alta Tensione
 https://chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Buonu more
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/9071Rgpy/chili-tv-btkc5p.png",🔆|➾ Chili Buonu more
 https://chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Chili Indimenticabili (IT)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/7LKKp2hF/images-q-tbn-ANd9Gc-Re-K4KTb-w-O-d-YLOQXQk-WTSn-M9Rd-ST7Cg-I4hw-s.jpg",🔆|➾Chili Indimenticabili (IT)
 https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Velvet (IT)
 https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
@@ -3371,6 +3371,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
