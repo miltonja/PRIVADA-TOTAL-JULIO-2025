@@ -1201,53 +1201,51 @@ https://chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8
 https://chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/7LKKp2hF/images-q-tbn-ANd9Gc-Re-K4KTb-w-O-d-YLOQXQk-WTSn-M9Rd-ST7Cg-I4hw-s.jpg",🔆|➾Chili Indimenticabili (IT)
 https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Chili Velvet (IT)
-https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ ON TV Portugal
+#EXTINF:-1 group-title="←«🔆🔆»→tvg-logo="https://i.postimg.cc/cJDKHBtL/on-fm.png",🔆|➾ ON TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Radio Love FM
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/0yMXZVP1/cropped-logo.png",🔆|➾ Radio Love FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CIUDAD MAGAZINE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/ZRXDqhTD/Ciudad_magazine.png",🔆|➾CIUDAD MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RADIO CARNAVAL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/RhWp8dKL/hq720.jpg",🔆|➾RADIO CARNAVAL
 https://eu1.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER LOVE TV  HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nL53m76Z/POWER_LOVE.png",🔆|➾POWER LOVE TV  HD
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WONDER TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾WONDER TV HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WILDER PLANET TV  HD
+#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/KjsjcG1p/018549173.jpg",🔆|➾WILDER PLANET TV  HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.tc_string%3D%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KANAL D DRAMA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png",🔆|➾KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TELE CINCO TRELEW
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/904VpGMm/maxresdefault.jpg",🔆|➾TELE CINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LOVE NATURE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/QdFQRJYf/LOVE_NATURE_TIME.png",🔆|➾LOVE NATURE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LOVE WINE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/SsGp8Dh4/LOVE_WINE.png",🔆|➾LOVE WINE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾STRONG MANS CHAMPION (GB)  LEAGUE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rmvxWhxn/STRONGMANG-CHAMPIONS.png",🔆|➾STRONG MANS CHAMPION (GB)  LEAGUE
 https://rightsboosterltd-scl-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾STRONG MANS CHAMPION (US)LEAGUE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/J7cYxfJj/STRONGMAN_CHAMPIONS.png",🔆|➾STRONG MANS CHAMPION (US)LEAGUE
 https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾STRONG MANS CHAMPION (US)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾STRONG MANS CHAMPION (US)
 https://rightsboosterltd-scl-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MICROVISION
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾READY TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SUR TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SUR TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RADIO FIESSTA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RADIO FIESSTA
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RADIO 88 ESTEREO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RADIO 88 ESTEREO
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TELE COLOR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TELE COLOR
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VIDEO TOUR CHANNEL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ LA 2 ESPAÑA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ LA 2 ESPAÑA
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EUSKAL TELEBISTA 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EUSKAL TELEBISTA 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SAN LUIS MAS
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
@@ -3371,6 +3369,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
