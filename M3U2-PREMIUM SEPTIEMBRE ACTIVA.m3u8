@@ -1301,51 +1301,51 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/fysDjfC5/latest-cb-20240915094259.jpg",🔆|➾La-X
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾DeepHouse District
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/X7yyYykT/DEEP-HOUSE.jpg",🔆|➾DeepHouse District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Cadena Elite
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://www.cadenaelite.es/images/logoMenu.png",🔆|➾Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BOM Channel
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/76hRd63w/bom-cine-es.png",🔆|➾BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BOM Channel
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/76hRd63w/bom-cine-es.png",🔆|➾BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/chunklist_w1705847012.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BEIN SPORTS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BEIN SPORTS
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BEIN SPORTS (MMNHD)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BEIN SPORTS (MMNHD)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AUSTURALIA_NZELAND-Trace Sports Stars
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AUSTURALIA_NZELAND-Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Antena 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Antena 1
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ALLO CINÉ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Tele Pasto | CO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Tele Pasto | CO
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Canal CNC Medellin | CO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Canal CNC Medellin | CO
 https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾❄️|➾RTV CHILE HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾RTV CHILE HD
 https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8?WebM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Cali TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾❄️|➾INSIGH TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾❄️|➾INSIGH TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾⭐|➾88 FM STEREO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾⭐|➾88 FM STEREO
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾|➾ POWER MAX TV | AR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾|➾ POWER MAX TV | AR
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bridge TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bridge TV
 http://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Bridge TV Classic
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Bridge TV Classic
 http://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bridge TV Deluxe
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bridge TV Deluxe
 http://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bridge TV Hits
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bridge TV Hits
 http://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bridge TV Русский хит
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bridge TV Русский хит
 http://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Bridge TV Шлягер
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bridge TV Шлягер
 http://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Kronehit TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -3359,6 +3359,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
