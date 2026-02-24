@@ -1265,7 +1265,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nr3NkX11/FREE_TV_FAMILIA.png",🔆|➾FREE TV FAMILIA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/qMZ96CqJ/FREE_TV_ACCION.png",🔆|➾FREE TV ACCION
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qMZ96CqJ/FREE_TV_ACCION.png",🔆|➾FREE TV ACCION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/JzsCp5vH/FREE_TV_ESTELARpng.png",🔆|➾FREE TV ESTELAR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
@@ -1417,10 +1417,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/pl
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Cine Estrella (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiards TV (CA)
-https://newidco-billiardstv-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiards TV (US)
-https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Estrella News (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lgus/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Estrella TV (US)
@@ -1451,10 +1447,6 @@ http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RED MAS
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/01.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾OUTSIDE TV HD
-https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾OUTSIDE TV HD
-https://dai.google.com/linear/hls/event/fhbqKUpiTbG9DAFBfASA2g/master.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MAXI VISION TV
@@ -1479,8 +1471,6 @@ https://u.m3uts.xyz/stream/hls/292
 http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RT EN ESPÑOL HD
-https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EURO NEWS ESPAÑOL HD
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 002 A&E TV HD
@@ -1507,8 +1497,6 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w10450
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾13 MAX 31.1 TDA HD
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾NEO TV DIGITAL  14.1
@@ -1541,8 +1529,6 @@ https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ VIVE TV HD | AR
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 MAX TELEVISION | AR
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Telefe Córdoba
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Telefe Rosario
@@ -1561,8 +1547,6 @@ https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Canal 5 Santa Fe
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾El Siete Mendoza
 https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾El ONCE HD
@@ -1599,8 +1583,6 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RELAXING RAIN | DISTRO  TV
-https://dai.google.com/linear/hls/event/N-tqcU4fRBGJsIWzsgMfmg/master.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾HI-YA! TV  HD
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Dance
@@ -3339,6 +3321,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
