@@ -1517,251 +1517,235 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Ss66Jg4z/Vive-TV.jpg",🔆|➾ VIVE TV HD | AR
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Telefe Córdoba
-https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Telefe Rosario
-https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",🔆|➾Telefe Salta
-https://ythls.armelin.one/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Telefe Santa Fe
-https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MILENNIO  TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/sXFT8vt3/MILENIO_LOS_CONDORE.png",🔆|➾MILENNIO  TV
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾eSports Max
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/d1fYZj9t/Esports-Max-Logo.png",🔆|➾eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾América Tucumán
-https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾América TV
-https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾El Siete Mendoza
-https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾El ONCE HD
-https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ TELEMUNDO LA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HWr0VY9C/telemundo.png",🔆|➾ TELEMUNDO LA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KISS KISS TV Italia HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KISS KISS TV Italia HD
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KISS KISS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KISS KISS TV
 https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1762317423.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EURO NEWS | Espanha - Plex
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EURO NEWS | Espanha - Plex
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ottera.tv id=878
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ottera.tv id=878
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FTF Sports
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FTF Sports
 https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/playlist.m3u8?ads.wurl_channel=246&ads.wurl_name=FTFNextUS&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=LNegCFRp1focA3KkJgjM&ads.plex_id=605a309dc5acdc002c7a20aa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾eSports Max TV | VE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾eSports Max TV | VE
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Super TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Super TV
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC Digital (Iquitos) (480p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC Digital (Iquitos) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Drone TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Mubeat - música coreana 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Mubeat - música coreana 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Espanha
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Espanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Telemundo Al Día
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Revry LatinX | EUA 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Revry LatinX | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Vive Kanal D Drama
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾HI-YA! TV  HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾HI-YA! TV  HD
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Dance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TSi
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Televisión Metrópolis 19.1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Televisión Metrópolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RED+ HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RED+ HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ready TV Canal 6
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RCN Más
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾NARANJA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NARANJA TV HD
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾GO TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 9 LITORAL HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 9 LITORAL HD
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CAMPUS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CAMPUS TV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LENCA TELEVISION CANAL 40
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LENCA TELEVISION CANAL 40
 https://www.lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KARIBEÑA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KARIBEÑA TV HD
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾INTUITIVA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾INTUITIVA TV HD
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO GALERAS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO GALERAS TV
 https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO HITS CHANNEL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO HITS CHANNEL
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO SENTIMIENTO VALLENATO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SENTIMIENTO VALLENATO
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO SON CORAZON
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON CORAZON
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO SON LATINO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON LATINO
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CNC PASTO SON POPULAR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL NETS HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL NETS HD
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 14 SAN CARLOS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BOREAL TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BOREAL TV HD
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AUSTRAL TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AUSTRAL TV HD
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ RT Español | RU
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ RT Español | RU
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Platzi TV | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Platzi TV | US
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Recuerdos Retro Radio TV | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ Vintage Music | CR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Vintage Music | CR
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Antares Televisión
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Antares Televisión
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Canal 34 San Juan
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾NMás Media
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NMás Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Haina Vision
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER MAX HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER MAX HD
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WEB ONAIR-RADIO HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾WEB ONAIR-RADIO HD
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾GOOD TV CH6 親近神 詩歌音樂
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GOOD TV CH6 親近神 詩歌音樂
 https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL TV MOTOR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL TV MOTOR
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾NATIVA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NATIVA TV HD
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WELLBEING TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾WELLBEING TV HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾BEATS RADIO 100.5FM
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BEATS RADIO 100.5FM
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾AFORTUNADAS TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AFORTUNADAS TV HD
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Cultura | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Cultura | CL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Entretencion | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Entretencion | CL
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Prime | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Prime | CL
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Teleseries | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Festival | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Festival | CL
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Humor | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Humor | CL
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ 13 Realities | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ 13 Realities | CL
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TU UNIVERSO TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Quietude 4K
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Quietude 4K
 https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MISS UNIVERSO BR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MISS UNIVERSO BR
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Miss Universo Brasil HD | Brasil
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Miss Universo Brasil HD | Brasil
 https://video01.soultv.com.br/umiss/umiss/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Hollywood HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Estrella TV (1080p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ESTRELLA.TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ESTRELLA.TV HD
 https://estrellatv-oando.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ETB 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ETB 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EITB1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EITB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EITB2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EITB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾A+ Cinema
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾A+ Cinema
 https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾13 MAX CORRIENTES
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾10.5 APOCALIPSIS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾10.5 APOCALIPSIS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa45f496492fa001d027619/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CANAL 10 MICROVISION TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 10 MICROVISION TV HD
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VA + MEXICO HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VA + MEXICO HD
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w590809501_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Pelimex (EU)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Pelimex (EU)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Pelimex -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Pelimex -TCL
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾sabor tv hd
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾sabor tv hd
 https://v1.tustreaming.cl/sabortv/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TELEFE 34.1 TDA HD"reproducir con MX PRO"
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TELEFE 34.1 TDA HD"reproducir con MX PRO"
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SIC
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Russian MusicBox
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Russian MusicBox
 http://hls.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾PONTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Power Dance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER DANCE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Power Turk (1080p)
+#EXTINF:-1 group-title="←«🔆🔆»→",tvg-logo="🔆|➾Power Turk (1080p)
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER TÜRK
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER TÜRK AKUSTIK
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER TÜRK SLOW
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER TÜRK TAPTAZE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾POWER TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Power TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Power TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SONGTV Armenia
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SONGTV Armenia
 http://hls.peers.tv/streaming/songtv_armenia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MILENIO NOTICIAS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MILENIO NOTICIAS
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MAVTV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MAVTV HD
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/1074/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Brazuca (Brazil)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Brazuca (Brazil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Brazuca -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Brazuca -TCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Latina -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Latina -TCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Sport Stars HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Sport Stars HD
 http://s.only4.tv/7700/index.m3u8?token=Y4oytkmFW4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Sports Stars
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Sports Stars
 https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Urban
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Trace Urban
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾KroneHIT
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -3309,6 +3293,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
