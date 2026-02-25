@@ -1383,18 +1383,16 @@ https://samson.streamerr.co:8081/shogun/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",🔆|➾449 | RTS || ECUADOR
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾419 | Mega TV || Jaen
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/NLqKQCKK/MEGA_TV_JAEN_esp.png",🔆|➾419 | Mega TV || Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾19 | Auténtica Televisión || Moyobamba
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/J42zjBnT/AUTENTICA_TV__VU_TV_PLAYER.png",🔆|➾19 | Auténtica Televisión || Moyobamba
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LIM TV | PY
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/SRYkJfJQ/LIM_TV.png",🔆|➾LIM TV | PY
 https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SON: TELEMAX
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/d09SZDSc/LOGO-TELEMAX_PNG-06-e1644506891800-1024x641.png",🔆|➾SON: TELEMAX
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Bergblick Free
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Bergblick_logo.svg",🔆|➾Bergblick Free
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8197afc7-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾360 | Tu Canal Musical
-https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾407 | Sol TV || Trujillo
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BEIN SPORTS XTRA ESPAÑOL HD
@@ -3321,6 +3319,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
