@@ -1425,7 +1425,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/play
 https://watchmojo-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/j2gPV1mP/World-of-Freesports.jpg",🔆|➾World of Free Sport (CH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgch/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→tvg-logo=""https://i.postimg.cc/K8Dn3WWJ/XITE_HITS.png",🔆|➾Xite HITS (DE)
+#EXTINF:-1 group-title="←«🔆🔆»→tvg-logo="https://i.postimg.cc/K8Dn3WWJ/XITE_HITS.png",🔆|➾Xite HITS (DE)
 https://xite-germany-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Pq29Q9H3/150px-A24_(2019-1).png",🔆|➾A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
@@ -1507,19 +1507,16 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/gJsnBfx7/TELE_PASTO.png",🔆|➾TELE PASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 8 TV+
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/9FJD8v1Q/CANAL_8_ESP_(2).png",🔆|➾CANAL 8 TV+
 https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNN Brasil | Soul TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/mDsymCjz/CNN_ESPAÑOL_FINAL.png",🔆|➾CNN Brasil | Soul TV
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MTV Shore | link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/5ydk26Wq/MTV_SHORE_ESP.png",🔆|➾MTV Shore | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MTV Com o Ex | link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/T3QzjxbP/ACAPULCO_SHORE-2.png",🔆|➾MTV Com o Ex | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾DNEWS HD TV
-https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ CHV Noticias | CL
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ VIVE TV HD | AR
+
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Ss66Jg4z/Vive-TV.jpg",🔆|➾ VIVE TV HD | AR
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Telefe Córdoba
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
@@ -3313,6 +3310,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
