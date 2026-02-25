@@ -1487,27 +1487,25 @@ https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",🔆|➾MEXIQUENSE HD
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CGTN ESPAÑOLTV * |HD|
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/wMdLGKnF/CGTN_Espanol.png",🔆|➾CGTN ESPAÑOLTV * |HD|
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL VISION DORADA
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/j2vwPp0D/BUM_TV_BLANCO.png",🔆|➾CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 34 SAN JUAN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/c4w5qJLC/canal-34-san-juan.png",🔆|➾CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NEO TV DIGITAL  14.1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/L84vcjgs/Neo-Tv.png",🔆|➾NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FRANCE 24 EN ESPAÑOL
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ciudades Del Ocio TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1njshc5vopbS0kqV4w1-BNMZmy128uqaSJH-QDPEnUpRBE2lmaVKjwaHdV29oMEEcQi8&usqp=CAU",🔆|➾Ciudades Del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾24h Canarias
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/63CN8J6F/1200px-Logo_Canal_24_horas.svg.png",🔆|➾24h Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POP TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/X7dx2jh0/pop.png",🔆|➾POP TV
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾LOS SANTOS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://pbs.twimg.com/profile_images/1805692992533004288/nnVyBQyo_400x400.jpg",🔆|➾LOS SANTOS TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TU UNIVERSO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Ssf3LrZX/TU_UNIVERSO_TV.png",🔆|➾TU UNIVERSO
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾TELE PASTO HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/gJsnBfx7/TELE_PASTO.png",🔆|➾TELE PASTO HD
 https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 8 TV+
 https://video.ejeserver.com/live/canal8tv.m3u8
@@ -3315,6 +3313,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
