@@ -1831,147 +1831,147 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Kj96081C/RAKUTEN_VIKI_MODIF.png",🔆|➾Rakuten Viki
 https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=HJNpAsLWteW2_Q7vbySW&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TERROR 1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Rhwb0B6j/CINE_TERROR_01.png",🔆|➾TERROR 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TERROR 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Dyqtvq18/CINE_TERROR_02.png",🔆|➾TERROR 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾The Jack Hannah Channel (Canada)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/sXXJgPLS/AAAABa-V-HTe7-zy2Qq-NB2y-GBs-QVKk7FEP7Qu-F34u-Ea-kpt5p7Kzt0Mfk-BLWf-Er-kuna5k50GUjhz-m0Uc-Pc-Mr8dsag.png",🔆|➾The Jack Hannah Channel (Canada)
 https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾The Pet Collective
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/tTvvmRLV/THE_PET_COLLECTIVE.png",🔆|➾The Pet Collective
 https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Brazuca
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/QCqw1GT5/trace_brazuca_dark_-_Nathan_BECKER__1_.png",🔆|➾Trace Brazuca
 https://d3e900fnvjyq99.cloudfront.net/d/SAQVMS82IPG72KHCNX9E/SmR77z5V11S8PUJxydj6GQfO.m3u8?ads.vast_id=668372
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Latina
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qq5Mfg76/TRACE_Latina_Logo.png",🔆|➾Trace Latina
 https://d3e900fnvjyq99.cloudfront.net/d/V82OCO4XYQTZMWG908YJ/a4u5KQHhehi82dvJo1M6imu5.m3u8?ads.vast_id=668373
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Urban
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rw6M5BRT/1200px-Trace_Urban_logo_2010.svg.png",🔆|➾Trace Urban
 https://d3e900fnvjyq99.cloudfront.net/d/LPR64PMGNAJ4TG7W2WKP/KXnMYpeHlsp8Vgh1qRwrLqEu.m3u8?ads.vast_id=668374
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Urban -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rw6M5BRT/1200px-Trace_Urban_logo_2010.svg.png",🔆|➾Trace Urban -TCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trailers From Hell
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bNj3QnDK/tfh-logo-seal-2013-5.png",🔆|➾Trailers From Hell
 https://558967c5c32141fe8f01c37d315e43a3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=61d738b5a7b7c7f703418514&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Vevo '70s
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/y6r5L4R1/VEVO-TV-70s.png",🔆|➾Vevo '70s
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO '70s (USA)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/y6r5L4R1/VEVO-TV-70s.png",🔆|➾VEVO '70s (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 2K
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/MTKgwTBw/VEVO_TV_2K.png",🔆|➾VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 70'S
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/y6r5L4R1/VEVO-TV-70s.png",🔆|➾VEVO 70'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 80's
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/W3bvqPqC/VEVO_80s.png",🔆|➾VEVO 80's
 https://bit.ly/vevo80s
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 80's
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/W3bvqPqC/VEVO_80s.png",🔆|➾VEVO 80's
 https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 80'S
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/W3bvqPqC/VEVO_80s.png",🔆|➾VEVO 80'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 90's
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png",🔆|➾VEVO 90's
 https://bit.ly/vevo90s
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 90's
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png",🔆|➾VEVO 90's
 https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO 90'S
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HsfdZKF8/VEVO90s.png",🔆|➾VEVO 90'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Vevo Country
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO_COUNTRY.png",🔆|➾Vevo Country
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VEVO COUNTRY
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO_COUNTRY.png",🔆|➾VEVO COUNTRY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VEVO Country (USA)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO_COUNTRY.png",🔆|➾VEVO Country (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Vevo Pop
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO_POP_TV.png",🔆|➾Vevo Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VEVO POP
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO_POP_TV.png",🔆|➾VEVO POP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VEVO Pop (USA)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO_POP_TV.png",🔆|➾VEVO Pop (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VEVO R&B
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO__R&B_TV.png",🔆|➾VEVO R&B
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾VEVO R&B (USA)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kgs7XXjm/VEVO__R&B_TV.png",🔆|➾VEVO R&B (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Vevo Reggaeton & Trap
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/QMns1YGY/VEVOREGGAETON__TV.png",🔆|➾Vevo Reggaeton & Trap
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XITE HD
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE NL HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XITE NL HD
 http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XPLORE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XSPORT HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Матч ТВ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Матч ТВ
 http://hls.peers.tv/streaming/sport/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Радио Хит (Орск) (720p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Радио Хит (Орск) (720p)
 http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾радио Хит ТВ (300p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾радио Хит ТВ (300p)
 http://lova.me/hls/hit.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Deutschpop
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Deutschpop
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abf23997-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Deutschpop
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Deutschpop
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Alemanha
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Áustria
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Áustria
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | França
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | França
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Itália
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Itália
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Reino Unido
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Reino Unido
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Deluxe Lounge HD | Suíça
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD | Suíça
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FASHION TV 4K
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FASHION TV 4K
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion TV HD
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/2045/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion TV HD
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2045/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion TV HD
 http://s.only4.tv/0211/index.m3u8?token=Y4oytkmFW4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion TV UHD (2160p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashiontv EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashiontv EN
 http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/1010/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FightBox
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FightBox
 http://s.only4.tv/5529/index.m3u8?token=Y4oytkmFW4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FIGHTER
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FIGHTER
 http://hls.cn.ru/streaming/boets/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fighting Spirit
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fighting Spirit
 https://dai.google.com/linear/hls/event/1an25xSeQuGB_J2IdoZ8Dg/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾FightTV Plus
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FightTV Plus
 https://d3e900fnvjyq99.cloudfront.net/d/LZCA1RPYH8HB27MNZV83/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657301
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wild Earth
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wild Earth
 https://wildearth-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wild Earth | África do Sul - Plex
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wild HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wild HD
 http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wild Planet (UK)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wild Planet (UK)
 https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wild Side TV | França
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wild Side TV | França
 https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_WildSideTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wilder Planet
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wilder Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Wildside TV (720p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Wildside TV (720p)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE (720p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XITE (720p) [Not 24/7]
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE (BE) (720p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XITE (BE) (720p)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾XITE (BE) (720p) [Not 24/7]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾XITE (BE) (720p) [Not 24/7]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Xite | Alemanha
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Xite | Alemanha
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiard TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiard TV
 https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiards TV (EU)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiards TV (EU)
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
@@ -3235,6 +3235,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
