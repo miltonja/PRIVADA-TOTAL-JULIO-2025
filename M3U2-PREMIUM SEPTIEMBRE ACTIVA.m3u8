@@ -1709,7 +1709,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾Kronehit HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.imgur.com/dQJQv1X.png",🔆|➾Kronehit HD
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/playlist.m3u8
@@ -1721,43 +1721,41 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.imgur.com/dQJQv1X.png",🔆|➾kronehitV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾FASHION ONE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Yq4DVfjk/Fashion_TV_HD.png",🔆|➾FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV (EU)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV (EU)
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV .AU -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV .AU -TCL
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV .BR -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV .BR -TCL
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV .CA -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV .CA -TCL
 https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV .DE -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV .DE -TCL
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV .FR -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV .FR -TCL
 https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone Tv .MX -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone Tv .MX -TCL
 https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Drone TV -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV -TCL
 https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Activa TV España
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kgvLHn69/ACTIVA_TV.png",🔆|➾Activa TV España
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RTL 102.5 Italia IT
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾4FUN TV Polonia PL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/k5wPQDZB/4-FUN-TV.png",🔆|➾4FUN TV Polonia PL
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Chequia CZ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png",🔆|➾Ocko Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Star Chequia CZ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/XqbPtbth/Ocko-Star-logo.png",🔆|➾Ocko Star Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Expres Chequia CZ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/TP5Hw1xM/ocko-expres.png",🔆|➾Ocko Expres Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NumberOne Turquía
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/q72XS30g/Nr1-logo-vector.jpg",🔆|➾NumberOne Turquía
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NRG91 Grecia
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾First Music Channel Bielorrusia
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/pT28Scsb/1music-tp.png",🔆|➾First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾30A Music USA EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/GtNTYWdb/30a-tv-logo.png",🔆|➾30A Music USA EN
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Retro Music TV Chequia EN
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -3245,6 +3243,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
