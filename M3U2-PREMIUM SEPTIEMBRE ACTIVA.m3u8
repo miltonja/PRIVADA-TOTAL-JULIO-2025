@@ -1649,60 +1649,50 @@ https://estrellatv-oando.amagi.tv/playlistR432p.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/L8Ljy1D2/ETB_2.png",🔆|➾ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EITB1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/PqHY05VZ/ETB_1.png",🔆|➾EITB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EITB2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/L8Ljy1D2/ETB_2.png",🔆|➾EITB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾A+ Cinema
-https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾10.5 APOCALIPSIS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa45f496492fa001d027619/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 10 MICROVISION TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/s2BMXGQ2/MICROVISION_MODIF.png",🔆|➾CANAL 10 MICROVISION TV HD
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾VA + MEXICO HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://editorial.aristeguinoticias.com/wp-content/uploads/2020/12/Logo-Va-por-M%C3%A9xico-coalici%C3%B3n-PRI-PAN-PRD-221220-1024x640.jpg",🔆|➾VA + MEXICO HD
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w590809501_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Pelimex (EU)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://img.static-ottera.com/prod/myb/linear_channel/thumbnails/widescreen/pelimex_logo.png",🔆|➾Pelimex (EU)
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Pelimex -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bJz6yJVt/PELIMEX.png",🔆|➾Pelimex -TCL
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾sabor tv hd
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yN6QBxbR/SABOR-TV.jpg",🔆|➾sabor tv hd
 https://v1.tustreaming.cl/sabortv/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TELEFE 34.1 TDA HD"reproducir con MX PRO"
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://telecolortv.pe/wp-content/uploads/2022/01/inicio_app.png",🔆|➾TELE COLOR PERU
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SIC
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/SKTjnxXF/SIC_BRAZIL.png",🔆|➾SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Russian MusicBox
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/kgW3D2sw/RUSSIAN-MUSIC-BOX.jpg",🔆|➾Russian MusicBox
 http://hls.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power Dance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271g.png",🔆|➾Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER DANCE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/FKn2B0HK/POWER-DANCE.png",🔆|➾POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",tvg-logo="🔆|➾Power Turk (1080p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://cdn.powergroup.com.tr/powerapp/channels/big/powerTurk.png?v=941",🔆|➾Power Turk (1080p)
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rFnCWjnN/power-Turk.png",🔆|➾POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK AKUSTIK
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/vmd166sq/POWER-TURK-AKUSTIK.png",🔆|➾POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK SLOW
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/CKmFLZL5/POWER-TURK-SLOW.png",🔆|➾POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TÜRK TAPTAZE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/q75vxhf1/POWER-TURK-TAPAZE.png",🔆|➾POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾POWER TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/tC2DkpT4/power-Turk.png",🔆|➾POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/mrGw2Dpj/POWER.png",🔆|➾Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Power TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/mrGw2Dpj/POWER.png",🔆|➾Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SONGTV Armenia
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://songtv.am/images/logos/100x100-songtv-ec.png",🔆|➾SONGTV Armenia
 http://hls.peers.tv/streaming/songtv_armenia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MILENIO NOTICIAS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",🔆|➾MILENIO NOTICIAS
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MAVTV HD
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/1074/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Brazuca (Brazil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Trace Brazuca -TCL
@@ -3265,6 +3255,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
