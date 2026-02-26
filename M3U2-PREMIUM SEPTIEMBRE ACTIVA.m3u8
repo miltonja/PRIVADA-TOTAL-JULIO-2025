@@ -1629,9 +1629,9 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/8CH4XpRT/CANAL_13_CULTURA-VU-TV-PLAYER.png",🔆|➾ 13 Cultura | CL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/fTQFpVbK/CANAL_13_TELESERIES.png",🔆|➾ 13 Teleseries | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/N0dSdLN1/CANAL_13_TELESERIES_ESP.png",🔆|➾ 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/65VMFCpD/250-cb-20230902024552-path-prefix-es.webp",🔆|➾ 13 Festival | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Pxcck9nJ/CANAL_13_ENTRETENCION.png",🔆|➾ 13 Festival | CL
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Pxcck9nJ/CANAL_13_ENTRETENCION.png",🔆|➾ 13 Humor | CL
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
@@ -1717,11 +1717,11 @@ https://bitcdn-kronehit.bitmovin.com:443/v2/hls/playlist.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/HasBahCa.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/pLgFP6rX/KRONEHIT-TV-HD.png",🔆|➾Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i1.sndcdn.com/artworks-000603736903-y8ei27-t500x500.jpg",🔆|➾Kronehit TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.imgur.com/dQJQv1X.png",🔆|➾kronehitV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾kronehitV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Yq4DVfjk/Fashion_TV_HD.png",🔆|➾FASHION ONE
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KjnfxpSH/KRONEHIT_TV.png",🔆|➾FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/bvZVjbCx/DRONE_TV.png",🔆|➾Drone TV (EU)
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
@@ -1751,33 +1751,33 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/TP5Hw1xM/ocko-expres.png",🔆|➾Ocko Expres Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/q72XS30g/Nr1-logo-vector.jpg",🔆|➾NumberOne Turquía
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/rwCQpwfV/nr1turk-768x768.png",🔆|➾NumberOne Turquía
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/pT28Scsb/1music-tp.png",🔆|➾First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/GtNTYWdb/30a-tv-logo.png",🔆|➾30A Music USA EN
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Retro Music TV Chequia EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",🔆|➾Retro Music TV Chequia EN
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ditty TV USA EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://www.africaorigin.net/upload/source/Ditty%20TV_%20USA.jpg",🔆|➾Ditty TV USA EN
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Spirit TV USA EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spirit_TV_Logo.svg/500px-Spirit_TV_Logo.svg.png",🔆|➾Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AKC TV Dogs EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Yq2SPXTb/AKC-Good-Dog-TV-Logo.jpg",🔆|➾AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AKC TV Dogs EN
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Yq2SPXTb/AKC-Good-Dog-TV-Logo.jpg",🔆|➾AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Outside Tv +
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/tv-web-providers/Outsude%20TV.png",🔆|➾Outside Tv +
 https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Retro Music Television | CZ
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",🔆|➾Retro Music Television | CZ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Solobailalo TV | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://static.mytuner-radio.net/media/radios/398/solo-bailalo-80s-90s.19d8bb89.png",🔆|➾Solobailalo TV | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾REAL MADRID - INGLÊS
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/RZBJXWsX/REAL_MADRID_TV.png",🔆|➾REAL MADRID - INGLÊS
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Radio Yguazú TV (480p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/iguazu.jpg",🔆|➾Radio Yguazú TV 
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Infinita TV Premium | US
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/13FFYYD2/INFINITAN_TV_PREMIUM_MEJOR.png",🔆|➾Infinita TV Premium | US
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3Uronnyjaguar
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Frecuencia Musical TV | US
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3Uronnyjaguar
@@ -3243,6 +3243,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
