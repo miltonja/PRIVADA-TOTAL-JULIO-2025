@@ -1603,8 +1603,6 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾BOREAL TV HD
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾AUSTRAL TV HD
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ RT Español | RU
@@ -1613,10 +1611,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ Vintage Music | CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Antares Televisión
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NMás Media
@@ -3293,6 +3287,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
