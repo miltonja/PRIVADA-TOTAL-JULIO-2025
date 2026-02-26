@@ -1555,51 +1555,51 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/nLG0hzvG/kanal-D-Drama.png",🔆|➾Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾HI-YA! TV  HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/vBvc9jNj/3p-logo-CB416424561.png",🔆|➾HI-YA! TV  HD
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Dance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yxB7BwvC/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",🔆|➾Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Deluxe Lounge HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/XvD0WTxC/Deluxe-Musik-logo.png",🔆|➾Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CBS Sports Golazo Network
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qgVSTbkp/GOLAZO-NEWYORK.png",🔆|➾CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾TSi
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/pr5NLLQf/-TSI.png",🔆|➾TSi
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Televisión Metrópolis 19.1
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png",🔆|➾Televisión Metrópolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RED+ HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Rh3QVV0W/RED_MAS_NOTICIAS.png",🔆|➾RED+ HD
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ready TV Canal 6
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/8zXJDZkn/Ready.png",🔆|➾Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RCN Más
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/2y65SFq6/RCN_MAS.png",🔆|➾RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾NARANJA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Bb25gwHz/NARANJA_TELEVISION.png",🔆|➾NARANJA TV HD
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾GO TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/tRvHBkGv/GO-Radio.png",🔆|➾GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 9 LITORAL HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/v8kVJkXQ/Canal_9_Litoral_2021.png",🔆|➾CANAL 9 LITORAL HD
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CAMPUS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/63TTLcyH/CampusTV.png",🔆|➾CAMPUS TV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾LENCA TELEVISION CANAL 40
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/L4LqFxBc/external.png",🔆|➾LENCA TELEVISION CANAL 40
 https://www.lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾KARIBEÑA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png",🔆|➾KARIBEÑA TV HD
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾INTUITIVA TV HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.imgur.com/zcehR4M.png",🔆|➾INTUITIVA TV HD
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO GALERAS TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC_SON_CORAZON.png",🔆|➾CNC SON CORAZONTV
 https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO HITS CHANNEL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Gm6ph2B1/CNC-HITS_CHANNEL.png",🔆|➾CNC PASTO HITS CHANNEL
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SENTIMIENTO VALLENATO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/1tKkj9bF/SENTIMIENTO_VALLENATO.png",🔆|➾CNC PASTO SENTIMIENTO VALLENATO
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON CORAZON
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC_SON_CORAZON.png",🔆|➾CNC PASTO SON CORAZON
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON LATINO
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/QtH0vGWk/CNC-Son-Latino-tvtolive-com.png",🔆|➾CNC PASTO SON LATINO
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CNC PASTO SON POPULAR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/4dZS0FQW/SON_POPULAR.png",🔆|➾CNC PASTO SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL NETS HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/fWCdbjkH/CANAL_NETS_ESP.png",🔆|➾CANAL NETS HD
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
@@ -3293,6 +3293,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
