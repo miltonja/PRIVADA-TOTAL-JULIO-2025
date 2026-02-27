@@ -307,9 +307,9 @@ https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="💢COSTA RICA💢" tvg-logo="https://i.postimg.cc/Dyfc8d05/logog.png",💢|➾ EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.postimg.cc/Twy3NV7P/khronehit-tv.png",KRONEHIT TV HD
+#EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.postimg.cc/Twy3NV7P/khronehit-tv.png",💢|➾KRONEHIT TV HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.imgur.com/EpEVoUX.png",CADENA ELITE ESPAÑA
+#EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.imgur.com/EpEVoUX.png",💢|➾CADENA ELITE ESPAÑA
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.pinimg.com/originals/59/ef/ff/59efff2b4600786167a71a42763d84ba.jpg",💢|➾MUSIC RELOAD TV
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
@@ -375,9 +375,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
 #EXTINF:-1 group-title="💢MUSICA💢" tvg-logo="https://i.imgur.com/wtFM93h.png",💢|➾FESTIVA TOP 40 TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
-#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png",KALOOPY TV
+#EXTINF:-1 group-title="💢LIFESTYLE💢" tvg-logo="https://i.postimg.cc/nznq9rF7/KALOOPY.png",💢|➾KALOOPY TV
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-#EXTINF:-1 group-title="💢REPUBLICA D.💢" tvg-logo="https://i.postimg.cc/s23kV3R4/su-mundo-tv-15.png",SU MUNDO TV
+#EXTINF:-1 group-title="💢REPUBLICA D.💢" tvg-logo="https://i.postimg.cc/s23kV3R4/su-mundo-tv-15.png",💢|➾SU MUNDO TV
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
 #EXTINF:-1 group-title="💢PREMIUM💢" tvg-logo="https://i.postimg.cc/qv2d8try/FUT-GO.png",💢|➾FUT GO | CL
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
@@ -971,13 +971,13 @@ http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/1zhQWw36/ISANGO_TV.png",🔆|➾IsangoTV
 http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"https://i.postimg.cc/Jh4R2f7x/rutv.png",🔆|➾RUTV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Jh4R2f7x/rutv.png",🔆|➾RUTV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qRLvYPLc/Mooz_Dance_(2013-.n.v.).png",MoozDance
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/qRLvYPLc/Mooz_Dance_(2013-.n.v.).png",🔆|➾MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/J7kTNRpB/Mooz_Hits_(2013-.n.v.).png",MoozHits
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/J7kTNRpB/Mooz_Hits_(2013-.n.v.).png",🔆|➾MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/90CqwPxb/mooz-ro1.png",MoozRo
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/90CqwPxb/mooz-ro1.png",🔆|➾MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/yxMtTdZL/Metropola_TV_(2020).png",🔆|➾MetropolaTV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -3203,6 +3203,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
