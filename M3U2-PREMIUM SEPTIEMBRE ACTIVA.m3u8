@@ -1941,147 +1941,139 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/jj4Zgrsv/BILLARDS_VU_TV_PLAYER.png",🔆|➾Billiards TV (EU)
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EBS 1 (400p)
-http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EBS 2 (400p)
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EBS English
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾EBS Kids
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion One
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/1010/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion One HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One HD
 http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/2044/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Fashion One HD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One HD
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2044/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Óčko (540p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko Expres
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko Gold
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko Star
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾OCKO STAR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾OCKO STAR
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Ocko TV (CZ)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko TV (CZ)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾OCKO TV GOLD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾OCKO TV GOLD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Outside tvᴴᴰ [localnow]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Outside tvᴴᴰ [localnow]
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾People Are Awesome
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome
 https://cda1577223674f46aaebd66cf2cfe1ca.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾People Are Awesome (Australia)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome (Australia)
 https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾People Are Awesome (Brazil)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome (Brazil)
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Redbull tv
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Redbull tv
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Redbull TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Weather Spy (Australia)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Weather Spy (Australia)
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Weather Spy (Brazil)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Weather Spy (Brazil)
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾WeatherNation
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾WeatherNation
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾trollhunters
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾trollhunters
 https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾La guerra del mañana co
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La guerra del mañana co
 https://dl.dropboxusercontent.com/s/re221mzlmbkp5l2/%20La%20Guerra%20Del%20Ma%C3%B1ana%20%282021%29.mp4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Godzilla
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Godzilla
 https://archive.org/download/gopla-72p/Godzilla1.mp4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾El Infierno |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾El Infierno |
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Volver al Futuro | ronnyjaguar
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Volver al Futuro | ronnyjaguar
 https://archive.org/download/qwerty_202001/qwerty.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Volver al Futuro 2 |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Volver al Futuro 2 |
 https://archive.org/download/qwerty2/qwerty2.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Volver al Futuro 3 |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Volver al Futuro 3 |
 https://archive.org/download/qwerty3/qwerty3.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Your Name |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Your Name |
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Jhonny English 3.0 |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Jhonny English 3.0 |
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Volver al Futuro |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Volver al Futuro |
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Next Gen | SRREGIO.NET
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Next Gen | SRREGIO.NET
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Tragedy Girls | SRREGIO.NET
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Tragedy Girls | SRREGIO.NET
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾La Fuerza De La Ilusion |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾La Fuerza De La Ilusion |
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Cuando nos Conocimos |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Cuando nos Conocimos |
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",Nosotros Los Nobles | ronnyjaguar
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",Nosotros Los Nobles | ronnyjaguar
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾The Cloverfield Paradox |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾The Cloverfield Paradox |
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Terminus |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Terminus |
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾JIGSAW VIII |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾JIGSAW VIII |
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Redada Asesina | ronnyjaguar
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Redada Asesina | ronnyjaguar
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾SAW VIII SUBTITULADO |
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾SAW VIII SUBTITULADO |
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Cine Crime | Pluto TV Brasil - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Cine Crime | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Horrorfy
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾RealMadrid TV | Pluto TV Brasil - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾RealMadrid TV | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ACL Cornhole TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ACL Cornhole TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1289
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾ACL Cornhole TV - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾ACL Cornhole TV - link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1998
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiard TV 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiard TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiard TV 3
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiard TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiard TV 4
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiard TV 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2167
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Billiard TV 5
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Billiard TV 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2005
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Toon Googles en Español
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Toon Googles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Toon Goggles en Español 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Toon Goggles en Español 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Toon Googles en Español 5
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Toon Googles en Español 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Toon Googles en Español 7
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Toon Googles en Español 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Clubbing TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Clubbing TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Clubbing TV 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Clubbing TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=753
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Clubbing TV | Brasil
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Clubbing TV | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾MTV Biggest Pop | link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾MTV Biggest Pop | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾CHILE-Valparaiso Sporting | CL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾CHILE-Valparaiso Sporting | CL
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Mubeat
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Mubeat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Mubeat - música coreana 3
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Mubeat - música coreana 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=887
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Reload | Chipre
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Reload | Chipre
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Reload | Chipre - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Reload | Chipre - link 2
 https://web.onair-radio.eu/video/video/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Xite Classic Country | Pluto TV EUA - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Xite Classic Country | Pluto TV EUA - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Xite Gospel | Pluto TV EUA - link 2
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Xite Gospel | Pluto TV EUA - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Craction TV | LG
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Craction TV | LG
 https://palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→",🔆|➾Sony Canal Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
@@ -3171,6 +3163,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
