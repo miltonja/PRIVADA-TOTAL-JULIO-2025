@@ -1941,49 +1941,43 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/jj4Zgrsv/BILLARDS_VU_TV_PLAYER.png",🔆|➾Billiards TV (EU)
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾EBS Kids
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/960px-EBS_KIDS.svg.png",🔆|➾EBS Kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/1010/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One HD
-http://d982310c.ottrast.com/iptv/VAS9DM6Q9AYC3K/2044/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Fashion One HD
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2044/index.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png",🔆|➾Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png",🔆|➾Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDM6MjA6MTIgQU0maGFzaF92YWx1ZT1LcTdCNVFrcWVWdkdCeFNGdndrcitnPT0mdmFsaWRtaW51dGVzPTQ4MA==&amp;tvin
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Óčko (540p)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png",🔆|➾Óčko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Expres
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-expres.png",🔆|➾Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Gold
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://okteve.com/wp-content/uploads/media/29dc60e6fc95cdaf043ec314252f348c.jpeg",🔆|➾Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko Star
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://pecka.tv/wp-content/themes/pecka/public/build/assets/ocko-star-Dwe3G69x.png",🔆|➾Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾OCKO STAR
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://pecka.tv/wp-content/themes/pecka/public/build/assets/ocko-star-Dwe3G69x.png",🔆|➾OCKO STAR
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Ocko TV (CZ)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",🔆|➾Ocko TV (CZ)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾OCKO TV GOLD
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://www.parabola.cz/img_logo/ocko-gold.gif",🔆|➾OCKO TV GOLD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Outside tvᴴᴰ [localnow]
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://www.usskiandsnowboard.org/sites/default/files/images/tv-web-providers/Outsude%20TV.png",🔆|➾Outside tvᴴᴰ [localnow]
 https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome
 https://cda1577223674f46aaebd66cf2cfe1ca.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome (Australia)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/0jkWdr98/logo-image-file.png",🔆|➾People Are Awesome (Australia)
 https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾People Are Awesome (Brazil)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/0jkWdr98/logo-image-file.png",🔆|➾People Are Awesome (Brazil)
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Redbull tv
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/X72w1qk0/REDBULL_TV.png",🔆|➾Redbull tv
 https://rbmn-live.akamaized.net:443/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Redbull TV
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/X72w1qk0/REDBULL_TV.png",🔆|➾Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Weather Spy (Australia)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/KvfMJmqj/WEATHER_SPY_ESP.png",🔆|➾Weather Spy (Australia)
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾Weather Spy (Brazil)
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://i.postimg.cc/Fz6W0nHT/WeatherSpy.png",🔆|➾Weather Spy (Brazil)
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾WeatherNation
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="https://e7.pngegg.com/pngimages/286/325/png-clipart-roku-weathernation-tv-the-weather-channel-weather-forecasting-television-channel-tv-logo-miscellaneous-television.png",🔆|➾WeatherNation
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo=",🔆|➾trollhunters
 https://archive.org/download/trollhunters-el-despertar-de-los-titanes/Trollhunters%20El%20despertar%20de%20los%20titanes.mp4
@@ -3163,6 +3157,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
