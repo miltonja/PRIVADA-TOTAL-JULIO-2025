@@ -3,8 +3,14 @@
 https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/8k4kfXN3/0d553227-72ef-48e6-8f95-4917622782a7.png",❄️|➾NOVELLISIMA TV
 https://cis-no-es.otteravision.com/cis/no_es/no_es.m3u8
+#EXTINF:-1 group-title="←«❄️SONY❄️»→" tvg-logo="https://i.postimg.cc/W4gX4wN5/SONY_COMPETENCIAS_SAMSUMG.png",❄️|➾SONY COMPETENCIAS
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/G3F87jrk/latest-cb-20220403004504.jpg",❄️|➾SONY NOVELAS HD
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/G3F87jrk/latest-cb-20220403004504.jpg",❄️|➾SONY NOVELAS HD
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/G3F87jrk/latest-cb-20220403004504.jpg",❄️|➾SONY NOVELAS HD
+https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️PREMIUM❄️»→" tvg-logo="https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/m-r/moconomyde/logos/3p-logo._CB643729579_.png",❄️|➾MOCONOMY EPAÑOL
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/d1Vk0fG5/ESPN2.png",❄️|➾ESPN EN VIVO
@@ -3147,6 +3153,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
