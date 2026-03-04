@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://static.wikia.nocookie.net/drama/images/1/16/958136.jpg/revision/latest?cb=20191128124213&path-prefix=es",❄️|➾NEW KID HD
+https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/qRy7hpQs/NOSEY_ESCANDALOS.png",❄️|➾NOSEY ESCANDALOS
 https://nosey-3-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/m2xMqDJQ/RAKUTEN_VIKI_BLANCO.png",❄️|➾RAKUTEN VIKI
@@ -7,6 +9,12 @@ https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
 https://cis-no-es.otteravision.com/cis/no_es/no_es.m3u8
 #EXTINF:-1 group-title="←«❄️SONY❄️»→" tvg-logo="https://sony-grid.noblink.net/sharktankco2/media/logo-sharktank-colombia.png",❄️|➾SONY SHARK TAMK
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️24/7❄️»→" tvg-logo="https://i.postimg.cc/jqMqh8nL/MYTIME_NEW_YORK_2.png",❄️|➾MYTIME (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️24/7❄️»→" tvg-logo="https://i.postimg.cc/HLpFKzXN/MYTIME_NEW_YORK.png",❄️|➾MYTIME (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️24/7❄️»→" tvg-logo="https://i.postimg.cc/1z6GRsJL/MY_TIME_1.png",❄️|➾MYTIME (ESPAÑA)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️SONY❄️»→" tvg-logo="https://i.postimg.cc/W4gX4wN5/SONY_COMPETENCIAS_SAMSUMG.png",❄️|➾SONY COMPETENCIAS
 https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️NOVELAS❄️»→" tvg-logo="https://i.postimg.cc/G3F87jrk/latest-cb-20220403004504.jpg",❄️|➾SONY NOVELAS HD
@@ -3191,6 +3199,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
