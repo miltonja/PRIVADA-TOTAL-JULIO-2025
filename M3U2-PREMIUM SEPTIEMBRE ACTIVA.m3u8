@@ -35,18 +35,18 @@ https://newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://181.78.23.26:45000/play/a02p
 #EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/rm6MWrWx/WinSportsMás2022.png",❄️|➾WIN SPORTS +
 http://181.78.23.26:45000/play/a03d
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
-#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="",❄️|➾
-
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png",❄️|➾RTVES
+https://ztnr.rtve.es/ztnr/1002072.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/K8Y2hJym/liga-acb-1990-2003-logo.png",❄️|➾ACB ESPAÑA
+https://ztnr.rtve.es/ztnr/1001766.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/9ffxfRfc/1200px-Logo-La-1-UHD-2024-svg.png",❄️|➾LA 1
+https://ztnr.rtve.es/ztnr/1001752.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/9ffxfRfc/1200px-Logo-La-1-UHD-2024-svg.png",❄️|➾LA 1
+https://ztnr.rtve.es/ztnr/1001749.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/63CN8J6F/1200px-Logo_Canal_24_horas.svg.png",❄️|➾24 HORAS TV
+https://ztnr.rtve.es/ztnr/1001742.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/63CN8J6F/1200px-Logo_Canal_24_horas.svg.png",❄️|➾24 HORAS TV
+https://ztnr.rtve.es/ztnr/1001394.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/8cTK3t0B/220px-La_2_HD.png",❄️|➾LA 2 ESPAÑA
 https://ztnr.rtve.es/ztnr/1001029.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/8cTK3t0B/220px-La_2_HD.png",❄️|➾LA 2 ESPAÑA
@@ -3187,6 +3187,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
