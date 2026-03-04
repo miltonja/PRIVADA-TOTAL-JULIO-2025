@@ -17,10 +17,14 @@ https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
 https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️PREMIUM❄️»→" tvg-logo="https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/m-r/moconomyde/logos/3p-logo._CB643729579_.png",❄️|➾MOCONOMY EPAÑOL
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️PELICULAS❄️»→" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/06/chaine-tv-cine-nanar-plus-1.png",❄️|➾ CINE NANAR
+https://zylo-cinenanar-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️PELICULAS❄️»→" tvg-logo="https://i.postimg.cc/bJz6yJVt/PELIMEX.png",❄️|➾PELI MEX
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️PELICULAS❄️»→" tvg-logo="https://i.postimg.cc/bJz6yJVt/PELIMEX.png",❄️|➾PELI MEX
 https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/A0xl7p4Lw3u60qzM/logo-f-YD0w1aXezVT4xV0R.png",❄️|➾FIGHTV PLUS
+https://d3e900fnvjyq99.cloudfront.net/d/LZCA1RPYH8HB27MNZV83/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657301
 #EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/rmvxWhxn/STRONGMANG-CHAMPIONS.png",❄️|➾STRONGMAN
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️DEPORTES❄️»→" tvg-logo="https://i.postimg.cc/J7cYxfJj/STRONGMAN_CHAMPIONS.png",❄️|➾STRONGMAN
@@ -3187,6 +3191,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
