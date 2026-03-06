@@ -53,6 +53,8 @@ http://181.78.23.26:45000/play/a03d
 https://ztnr.rtve.es/ztnr/1002072.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/K8Y2hJym/liga-acb-1990-2003-logo.png",❄️|➾ACB ESPAÑA
 https://ztnr.rtve.es/ztnr/1001766.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://www.gotv.mx/Home-GoTv/wp-content/uploads/2023/01/LOGO-GO-TV-1.png",❄️|➾GO ESPAÑA
+https://amg02051-soulpublishing-amg02051c18-lg-ar-551.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg02051-admecyltd-123gospanish-lgar/playlist.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/9ffxfRfc/1200px-Logo-La-1-UHD-2024-svg.png",❄️|➾LA 1
 https://ztnr.rtve.es/ztnr/1001752.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/9ffxfRfc/1200px-Logo-La-1-UHD-2024-svg.png",❄️|➾LA 1
@@ -3201,6 +3203,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
