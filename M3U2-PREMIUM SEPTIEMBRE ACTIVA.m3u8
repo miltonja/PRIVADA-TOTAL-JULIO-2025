@@ -51,6 +51,8 @@ http://181.78.23.26:45000/play/a02p
 http://181.78.23.26:45000/play/a03d
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png",❄️|➾RTVES
 https://ztnr.rtve.es/ztnr/1002072.m3u8
+#EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://verbenafm.com/wp-content/uploads/2022/07/cropped-logo-verbena-web-2-1-150x150.png",❄️|➾VERBENA ESPAÑA
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://i.postimg.cc/K8Y2hJym/liga-acb-1990-2003-logo.png",❄️|➾ACB ESPAÑA
 https://ztnr.rtve.es/ztnr/1001766.m3u8
 #EXTINF:-1 group-title="←«❄️ESPAÑA❄️»→" tvg-logo="https://www.adgully.com/img/800/202208/copy-of-copy-of-adgully-2022-08-03t112411-626.png.jpg",❄️|➾TRAVEL XPM ESPAÑA
@@ -3205,6 +3207,7 @@ http://archive.org/download/peliculas-de-accion-completas-gratis-2018-peliculas-
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="2015" tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/25/10/39/242769.jpg",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
 
 
 
